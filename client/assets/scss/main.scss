@@ -1,0 +1,41 @@
+html, body {
+  font: 12px/1 PingFangSC-Regular, Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  -webkit-touch-callout: none !important;
+}
+
+body {
+  background-color: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  transition: all 0.3s ease-in-out;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 6px;
+  min-height: 15px;
+  border-radius: 3px;
+  background: rgba(50, 50, 50, 0.3) !important;
+  transition: all 0.3s ease-in-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5) !important;
+}

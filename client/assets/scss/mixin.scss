@@ -1,0 +1,15 @@
+$headerHeight: 50px;
+
+@mixin clear {
+  &::before, &::after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+}
+
+@mixin ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
