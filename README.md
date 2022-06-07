@@ -1,2 +1,2 @@
-# chart-node
+# chart-hub
 chart react+node
