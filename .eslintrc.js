@@ -1,24 +1,20 @@
 // https://eslint.org/docs/user-guide/configuring
 module.exports = {
   root: true,
-  parserOptions: {
-    parser: '@babel/eslint-parser',
-  },
   env: {
     browser: true,
     es6: true,
     node: true,
   },
+  parserOptions: {
+    ecmaVersion: 'latest',
+    ecmaFeatures: {
+      jsx: true,
+    },
+  },
   extends: [
     'airbnb',
   ],
-  settings: {
-    'import/resolver': {
-      webpack: {
-        config: 'bin/webpack/config.base.js',
-      },
-    },
-  },
   rules: {
     'linebreak-style': [0, 'error', 'windows'],
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx'] }],

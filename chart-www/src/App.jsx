@@ -2,6 +2,7 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import { Helmet } from 'react-helmet';
 import store from './store';
+import Router from './router';
 
 const App = () => (
   <Provider store={store}>
@@ -15,7 +16,7 @@ const App = () => (
         content: process.env.DESCRIPTION,
       }]}
     />
-    <div>App</div>
+    <Router />
   </Provider>
 );
 
