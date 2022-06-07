@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2018-07-11">
+    <creator>drug_freq</creator>
+    <description>A network to describe the connection between the drug and illness</description>
+  </meta>
+  <graph defaultedgetype="undirected" label="A network to describe the connection between the drugs and illness " mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="ill_name" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="白血病(需继续化疗者)">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:position x="0" y="0" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="10" label="肺气肿">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"/>
+        </attvalues>
+        <viz:position x="0" y="8" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="11" label="肺力咳合剂">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="0.3810590753429388" y="8.83813829930883" z="1.3359141422838048"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="12" label="肝硬化">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:position x="0" y="10" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="13" label="肝复乐胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="0.44202884932495135" y="10.366821286761857" z="0.6999446294123177"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="14" label="干燥综合症">
+        <attvalues>
+          <attvalue for="modularity_class" value="14"/>
+        </attvalues>
+        <viz:position x="2" y="0" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="15" label="雷公藤口服制剂">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="1.956053754234085" y="-0.9797935707520249" z="1.5672319647360329"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="16" label="高血压、糖尿病">
+        <attvalues>
+          <attvalue for="modularity_class" value="16"/>
+        </attvalues>
+        <viz:position x="2" y="2" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="17" label="参麦注射液">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="2.587518512141197" y="1.7564659372692082" z="1.7245940498082393"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="18" label="高血压病">
+        <attvalues>
+          <attvalue for="modularity_class" value="18"/>
+        </attvalues>
+        <viz:position x="2" y="4" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="19" label="复方丹参颗粒">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="1.2851892284480773" y="4.908414288066843" z="0.7029228634750153"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="2" label="复方阿胶浆">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="0.6329625126196916" y="-0.7732505897069226" z="0.21797544691188997"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="20" label="股骨头坏死">
+        <attvalues>
+          <attvalue for="modularity_class" value="20"/>
+        </attvalues>
+        <viz:position x="2" y="6" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="21" label="复方血栓通胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="1.5208225836809526" y="6.467599442470506" z="0.8397712997902889"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="22" label="仙灵骨葆胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="2.8593134773719315" y="5.281133656706379" z="0.4411846722210073"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="23" label="冠心病支架植入术后的抗凝治疗（临时）">
+        <attvalues>
+          <attvalue for="modularity_class" value="23"/>
+        </attvalues>
+        <viz:position x="2" y="8" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="24" label="地奥心血康软胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="1.8109892742960618" y="8.743846709140815" z="0.7542238104911461"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="25" label="冠状动脉粥样硬化性心脏病">
+        <attvalues>
+          <attvalue for="modularity_class" value="25"/>
+        </attvalues>
+        <viz:position x="2" y="10" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="26" label="甲状腺功能亢进">
+        <attvalues>
+          <attvalue for="modularity_class" value="26"/>
+        </attvalues>
+        <viz:position x="4" y="0" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="27" label="夏枯草膏">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="4.413604764406587" y="0.8580811265182742" z="1.424411215386365"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="28" label="精神分裂症">
+        <attvalues>
+          <attvalue for="modularity_class" value="28"/>
+        </attvalues>
+        <viz:position x="4" y="2" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="29" label="稳心颗粒">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="4.628550437805157" y="1.7676050299671449" z="1.2111405656477139"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="3" label="复方红衣补血口服液">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="-0.28488725043078045" y="-0.6925967158932465" z="0.8105638848428984"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="30" label="溃疡性结肠炎">
+        <attvalues>
+          <attvalue for="modularity_class" value="30"/>
+        </attvalues>
+        <viz:position x="4" y="4" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="31" label="锡类散">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="3.6187987611651593" y="3.7973603287165965" z="1.6378304176331084"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="32" label="云南白药">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="3.6789581539358673" y="4.687399227331804" z="0.8719959684036978"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="33" label="颅脑肿瘤">
+        <attvalues>
+          <attvalue for="modularity_class" value="33"/>
+        </attvalues>
+        <viz:position x="4" y="6" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="34" label="芪苈强心胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="3.480442745489513" y="5.511578872257559" z="1.1890239599173045"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="35" label="慢性肾功能衰竭">
+        <attvalues>
+          <attvalue for="modularity_class" value="35"/>
+        </attvalues>
+        <viz:position x="4" y="8" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="36" label="海昆肾喜胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="3.4587675848167643" y="7.818582991143211" z="1.7319230455144714"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="37" label="尿毒清颗粒">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="3.764888085194548" y="7.61313753150557" z="0.7820391087759966"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="38" label="慢性肾小球肾炎">
+        <attvalues>
+          <attvalue for="modularity_class" value="38"/>
+        </attvalues>
+        <viz:position x="4" y="10" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="39" label="黄葵胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="3.0499032468380824" y="9.299289871242134" z="0.48099806019685243"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="4" label="癫痫持续状态">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:position x="0" y="2" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="40" label="脑出血">
+        <attvalues>
+          <attvalue for="modularity_class" value="40"/>
+        </attvalues>
+        <viz:position x="6" y="0" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="41" label="血塞通滴丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="5.078325902484902" y="-0.9918143850440937" z="1.0015422277988533"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="42" label="脑梗塞">
+        <attvalues>
+          <attvalue for="modularity_class" value="42"/>
+        </attvalues>
+        <viz:position x="6" y="2" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="43" label="尿毒症患者的透析治疗">
+        <attvalues>
+          <attvalue for="modularity_class" value="43"/>
+        </attvalues>
+        <viz:position x="6" y="4" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="44" label="生血宁片">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="6.187119453311327" y="3.9654728295494053" z="0.9813492097320977"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="45" label="器官移植患者的抗排异治疗">
+        <attvalues>
+          <attvalue for="modularity_class" value="45"/>
+        </attvalues>
+        <viz:position x="6" y="6" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="46" label="百令胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="5.561630059765205" y="5.388730126578521" z="1.866703497390984"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="47" label="器质性精神障碍病">
+        <attvalues>
+          <attvalue for="modularity_class" value="47"/>
+        </attvalues>
+        <viz:position x="6" y="8" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="48" label="逍遥丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="6.969602706343778" y="7.938320988569042" z="0.7807194044868584"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="49" label="肾病综合征">
+        <attvalues>
+          <attvalue for="modularity_class" value="49"/>
+        </attvalues>
+        <viz:position x="6" y="10" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="5" label="虫草菌发酵制剂">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="0.2067944548272953" y="2.991679016987102" z="0.03723979845223635"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="50" label="糖尿病">
+        <attvalues>
+          <attvalue for="modularity_class" value="50"/>
+        </attvalues>
+        <viz:position x="8" y="0" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="51" label="心肌病">
+        <attvalues>
+          <attvalue for="modularity_class" value="51"/>
+        </attvalues>
+        <viz:position x="8" y="2" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="52" label="参苓白术丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="8.931642700303394" y="2.6538920497921854" z="0.2911586891651936"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="53" label="参松养心胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="8.67779362752658" y="1.707294302373315" z="0.40699571317577576"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="54" label="心境障碍">
+        <attvalues>
+          <attvalue for="modularity_class" value="54"/>
+        </attvalues>
+        <viz:position x="8" y="4" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="55" label="感冒灵颗粒">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="8.926695940785285" y="3.604632406537461" z="0.19060552236174533"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="56" label="云南白药膏">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="7.392391225814432" y="4.806245897156441" z="1.2722194889126164"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="57" label="心力衰竭">
+        <attvalues>
+          <attvalue for="modularity_class" value="57"/>
+        </attvalues>
+        <viz:position x="8" y="6" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="58" label="心宝丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="7.496839706637344" y="5.546796943586629" z="0.9042263403814621"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="59" label="心脏瓣膜疾病">
+        <attvalues>
+          <attvalue for="modularity_class" value="59"/>
+        </attvalues>
+        <viz:position x="8" y="8" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="6" label="脑心通丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="-0.5595846714265351" y="2.940538427267235" z="0.8001582966549712"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="60" label="麝香保心丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="8.77316282594321" y="8.081478170009621" z="1.800895675487364"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="61" label="心脏瓣膜置换术后抗凝治疗">
+        <attvalues>
+          <attvalue for="modularity_class" value="61"/>
+        </attvalues>
+        <viz:position x="8" y="10" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="62" label="蒲参胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="7.383968269579537" y="10.437721868775862" z="0.8827742050015386"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="63" label="银屑病">
+        <attvalues>
+          <attvalue for="modularity_class" value="63"/>
+        </attvalues>
+        <viz:position x="10" y="0" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="64" label="丹参酮胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="10.128157564106052" y="0.6294554490358588" z="1.5438822336831517"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="65" label="消银颗粒">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="9.296464696826106" y="-0.6039511680133325" z="0.06180385462080373"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="66" label="再生障碍性贫血">
+        <attvalues>
+          <attvalue for="modularity_class" value="66"/>
+        </attvalues>
+        <viz:position x="10" y="2" z="1"/>
+        <viz:size value="2"/>
+      </node>
+      <node id="67" label="支气管扩张">
+        <attvalues>
+          <attvalue for="modularity_class" value="67"/>
+        </attvalues>
+        <viz:position x="10" y="4" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="68" label="重症肌无力">
+        <attvalues>
+          <attvalue for="modularity_class" value="68"/>
+        </attvalues>
+        <viz:position x="10" y="6" z="1"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="69" label="金天格胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="10.022155918532198" y="6.452516263016161" z="0.7443253490104891"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="7" label="多发性肌炎/皮肌炎">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:position x="0" y="4" z="1"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="70" label="椎管狭窄">
+        <attvalues>
+          <attvalue for="modularity_class" value="70"/>
+        </attvalues>
+        <viz:position x="10" y="8" z="1"/>
+        <viz:size value="4"/>
+      </node>
+      <node id="71" label="麝香壮骨膏">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="10.925859269703423" y="8.699835756405058" z="0.9918053468293782"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="72" label="振源胶囊">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="10.013867382445847" y="8.72867961325199" z="1.2921005385006246"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="8" label="人参归脾丸">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:position x="-0.7565455352376147" y="4.555786607633405" z="1.9662992180030912"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="9" label="恶性肿瘤的辅助治疗">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"/>
+        </attvalues>
+        <viz:position x="0" y="6" z="1"/>
+        <viz:size value="1"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="2" weight="0.23255814"/>
+      <edge id="1" source="1" target="3" weight="0.720930233"/>
+      <edge id="10" source="18" target="19" weight="0.266666667"/>
+      <edge id="11" source="20" target="21" weight="0.2"/>
+      <edge id="12" source="20" target="22" weight="0.311111111"/>
+      <edge id="13" source="23" target="5" weight="0.5"/>
+      <edge id="14" source="23" target="24" weight="1.0"/>
+      <edge id="15" source="25" target="19" weight="0.212178877"/>
+      <edge id="16" source="26" target="27" weight="0.222222222"/>
+      <edge id="17" source="28" target="17" weight="0.208333333"/>
+      <edge id="18" source="28" target="19" weight="0.208333333"/>
+      <edge id="19" source="28" target="29" weight="0.208333333"/>
+      <edge id="2" source="4" target="5" weight="0.2"/>
+      <edge id="20" source="30" target="31" weight="0.458333333"/>
+      <edge id="21" source="30" target="32" weight="0.458333333"/>
+      <edge id="22" source="33" target="34" weight="0.333333333"/>
+      <edge id="23" source="35" target="5" weight="0.284722222"/>
+      <edge id="24" source="35" target="36" weight="0.298611111"/>
+      <edge id="25" source="35" target="37" weight="0.368055556"/>
+      <edge id="26" source="38" target="5" weight="0.220472441"/>
+      <edge id="27" source="38" target="39" weight="0.322834646"/>
+      <edge id="28" source="40" target="19" weight="0.3"/>
+      <edge id="29" source="40" target="41" weight="0.2"/>
+      <edge id="3" source="4" target="6" weight="0.333333333"/>
+      <edge id="30" source="42" target="6" weight="0.282608696"/>
+      <edge id="31" source="43" target="37" weight="0.234972678"/>
+      <edge id="32" source="43" target="44" weight="0.207650273"/>
+      <edge id="33" source="45" target="46" weight="0.281927711"/>
+      <edge id="34" source="45" target="5" weight="0.4"/>
+      <edge id="35" source="47" target="6" weight="0.5"/>
+      <edge id="36" source="47" target="6" weight="0.25"/>
+      <edge id="37" source="47" target="48" weight="0.25"/>
+      <edge id="38" source="49" target="39" weight="0.235294118"/>
+      <edge id="39" source="49" target="15" weight="0.264705882"/>
+      <edge id="4" source="7" target="8" weight="1.0"/>
+      <edge id="40" source="50" target="17" weight="0.226415094"/>
+      <edge id="41" source="51" target="52" weight="0.25"/>
+      <edge id="42" source="51" target="53" weight="0.75"/>
+      <edge id="43" source="51" target="19" weight="0.25"/>
+      <edge id="44" source="54" target="53" weight="0.25"/>
+      <edge id="45" source="54" target="55" weight="0.25"/>
+      <edge id="46" source="54" target="56" weight="0.333333333"/>
+      <edge id="47" source="57" target="55" weight="0.333333333"/>
+      <edge id="48" source="57" target="34" weight="0.333333333"/>
+      <edge id="49" source="57" target="58" weight="0.222222222"/>
+      <edge id="5" source="9" target="3" weight="0.217898833"/>
+      <edge id="50" source="59" target="19" weight="0.388888889"/>
+      <edge id="51" source="59" target="60" weight="0.277777778"/>
+      <edge id="52" source="61" target="62" weight="0.3125"/>
+      <edge id="53" source="61" target="34" weight="0.4375"/>
+      <edge id="54" source="61" target="29" weight="0.5625"/>
+      <edge id="55" source="63" target="64" weight="0.25"/>
+      <edge id="56" source="63" target="65" weight="0.3125"/>
+      <edge id="57" source="66" target="2" weight="0.428571429"/>
+      <edge id="58" source="66" target="3" weight="0.714285714"/>
+      <edge id="59" source="67" target="19" weight="0.333333333"/>
+      <edge id="6" source="10" target="11" weight="0.215139442"/>
+      <edge id="60" source="68" target="69" weight="0.333333333"/>
+      <edge id="61" source="68" target="22" weight="0.333333333"/>
+      <edge id="62" source="68" target="56" weight="1.0"/>
+      <edge id="63" source="70" target="69" weight="0.25"/>
+      <edge id="64" source="70" target="71" weight="0.25"/>
+      <edge id="65" source="70" target="56" weight="0.25"/>
+      <edge id="66" source="70" target="72" weight="0.25"/>
+      <edge id="7" source="12" target="13" weight="0.283018868"/>
+      <edge id="8" source="14" target="15" weight="0.290322581"/>
+      <edge id="9" source="16" target="17" weight="0.407407407"/>
+    </edges>
+  </graph>
+</gexf>

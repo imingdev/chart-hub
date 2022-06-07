@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>Bootstrap 实例 - 悬停表格</title>
+	<link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">  
+	<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="angular.js"></script>
+	<script type="text/javascript" src="angular.min.js"></script>
+	<!-- <link rel="stylesheet" type="text/css" href="abc.css" /> -->
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
+		.table{
+			margin: 0;
+			padding: 0;
+		}
+		td{
+			width:158px; 
+            border-width:3px;
+            border-style:none;
+	    }
+		th{
+			text-align :left
+			
+		}
+	</style>
+</head>
+<!-- 滚动条 -->
+<!-- <body style="overflow-y:scroll;height:200px;"> -->
+
+<table class="table";>
+	<caption>悬停表格布局</caption>
+	<thead>
+		<tr>
+			<th>名称</th>
+			<th>城市</th>
+			<th>邮编</th>
+			<th>图表</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Tanmay</td>
+			<td>Bangalore</td>
+			<td>560001</td>
+			<td>
+				<div id="one" style="width: 70px;height:20px;"></div>
+			</td>
+		</tr>
+		<tr>
+			<td>Sachin</td>
+			<td>Mumbai</td>
+			<td>400003</td>
+			<td>
+					<div id="two" style="width: 70px;height:20px;"></div>
+				</td>
+        </tr>
+        <tr>
+			<td>Sachin222</td>
+			<td>Mumbai</td>
+			<td>400003</td>
+			<td>
+					<div id="three" style="width: 70px;height:20px;"></div>
+				</td>
+		</tr>
+	</tbody>
+ </table> 
+		<div ng-app="myApp" ng-controller="personCtrl" >
+		<table ng-hide="adc" ng-click="toggle()" class="table" >
+			<tr>
+			  <td>......</td>
+			  <td>......</td>
+			  <td>......</td>
+			  <td>......</td>
+			</tr>
+		</table>		
+		<table ng-hide="myVar" class="table";>
+	      <tr >
+			  <td>Sachin11111111</td>
+			  <td>Mumbai</td>
+			  <td>400003</td>
+			  <td>
+					<div id="four" style="width: 70px;height:20px;"></div>
+				</td>
+          </tr>
+          <tr>
+			  <td>Sachin</td>
+			  <td>Mumbai</td>
+			  <td>400003</td>
+			  <td>
+					<div id="five"  style="width: 70px;height:20px;"></div>
+				</td>
+		  </tr>
+		  <tr>
+			  <td>Sachin</td>
+			  <td>Pune</td>
+			  <td>411027</td>
+			  <td>
+					<div id="six"  style="width: 70px;height:20px;"></div>
+				</td>
+		  </tr>
+		  <tr>
+				<td>Sachin</td>
+				<td>Mumbai</td>
+				<td>400003</td>
+				<td>
+						<div id="seven" style="width: 70px;height:20px;"></div>
+					</td>
+			</tr>
+			 <tr>
+			  <td>Sachin</td>
+			  <td>Mumbai</td>
+			  <td>400003</td>
+			  <td>
+					<div id="eight"  style="width: 70px;height:20px;"></div>
+				</td>
+		  </tr>
+		  <tr>
+			  <td>Sachin</td>
+			  <td>Pune</td>
+			  <td>411027</td>
+			  <td>
+					<div id="nine"  style="width: 70px;height:20px;"></div>
+				</td>
+		  </tr>
+		</table>
+	</div>
+
+<table  class="table"; > 
+     <tbody> 
+        <tr>
+			<td>Uma</td>
+			<td>Pune</td>
+			<td>411027</td>
+			<td>
+					<div id="ten" style="width: 70px;height:20px;"></div>
+				</td>
+        </tr>
+        <tr>
+			<td>Uma</td>
+			<td>Pune</td>
+			<td>411027</td>
+			<td>
+					<div id="eleven"  style="width: 70px;height:20px;"></div>
+				</td>
+        </tr>
+        <tr>
+			<td>Uma</td>
+			<td>Pune</td>
+			<td>411027</td>
+			<td>
+					<div id="twelve"  style="width: 70px;height:20px;"></div>
+				</td>
+        </tr>
+	</tbody>
+</table >
+	<script>
+	var app = angular.module('myApp', []);
+	app.controller('personCtrl', function($scope) {
+		$scope.myVar = true;
+		$scope.adc = false;
+		$scope.toggle = function() {
+			$scope.myVar = !$scope.myVar;
+			$scope.adc = !$scope.adc;
+		}
+	});
+	</script>
+<script src="echarts.min.js"></script>
+<script src="test61.js"></script>	
+     <script>
+		lineTest('one');
+		lineTest('two');
+		lineTest('three');
+		lineTest('four');
+		lineTest('five');
+		lineTest('six');
+		lineTest('seven');
+		lineTest('eight');
+		lineTest('nine');
+		lineTest('ten');
+		lineTest('eleven');
+		lineTest('twelve');
+	</script>
+</body>
+</html><!--22685727680337166858012916-->
+<script> var _trace_page_logid = 2268572768; </script>

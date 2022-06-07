@@ -1,0 +1,47 @@
+﻿{
+  "type": "FeatureCollection",
+  "cp": [
+    117.4219,
+    39.4189
+  ],
+  "size": "5000",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 330100,
+        "name": "杭州市",
+        "cp": [
+          120.153576,
+          30.287459
+        ],
+        "childrenNum": 13
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1,
+                1
+              ],
+              [
+                5,
+                5
+              ],
+              [
+               1,
+                5
+              ],
+              [
+                5,
+                1
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

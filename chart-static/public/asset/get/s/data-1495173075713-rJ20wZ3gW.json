@@ -1,0 +1,35 @@
+{
+  "edges": [
+    {
+      "id": "1212167",
+      "level_index": "社交",
+      "level": "强/弱",
+      "reg_cap_cur": "人民币",
+      "sub_conam": "200",
+      "i_node_id": "45325",
+      "relation_type": "法人/股东/执行董事",
+      "j_node_id": "7629",
+      "funded_ratio": "100%"
+    }
+  ],
+  "cloudatlas_code": "452323212",
+  "vertexs": [
+    {
+      "reg_cap_cur": "人民币",
+      "dom": "杭州市江干区俞章路xx号xx幢xx楼xx室",
+      "reg_org": "杭州市工商行政管理局江干分局",
+      "cert_type": "注册号",
+      "cert_no": "330104000262988",
+      "cert_name": "杭州xx贸易有限公司",
+      "in_black_list": "是",
+      "id": "12353",
+      "ent_type": "个体工商户",
+      "risk_index": "0.1",
+      "relation_level": "1",
+      "ent_status": "在营（开业）/注销",
+      "reg_cap": "200"
+    }
+  ],
+  "biz_no": "ZM201606151031244569100000029512",
+  "success": true
+}

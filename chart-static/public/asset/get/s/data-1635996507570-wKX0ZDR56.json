@@ -1,0 +1,227 @@
+{
+    "name": "企业环保画像",
+    "children": [
+        {
+            "name": "天然属性",
+            "collapsed": false,
+            "children": [
+                {
+                    "name": "限值限量类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "限制总量"
+                        },
+                        {
+                            "name": "排放限值"
+                        }
+                    ]
+                },
+                {
+                    "name": "基础信息类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "污染源因子数量"
+                        },
+                        {
+                            "name": "排口基数评估",
+                            "tags": [
+                                {
+                                    "name": "排口基数较小",
+                                    "color": "success"
+                                },
+                                {
+                                    "name": "排口基数较大",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "排口基数特大",
+                                    "color": "danger"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "数据质量类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "数据空值行为"
+                        },
+                        {
+                            "name": "数据缺失行为"
+                        },
+                        {
+                            "name": "数据时效行为"
+                        },
+                        {
+                            "name": "数据异常行为"
+                        },
+                        {
+                            "name": "数据合法行为"
+                        },
+                        {
+                            "name": "数据重复行为"
+                        }
+                    ]
+                },
+                {
+                    "name": "社会监督类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "举报投诉行为"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "成长属性",
+            "collapsed": false,
+            "children": [
+                {
+                    "name": "限值限量类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "排放限值",
+                            "tags": [
+                                {
+                                    "name": "排放限值正常",
+                                    "color": "success"
+                                },
+                                {
+                                    "name": "排放限值超标",
+                                    "color": "warning"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "排放总量",
+                            "tags": [
+                                {
+                                    "name": "N因子排放量正常",
+                                    "color": "success"
+                                },
+                                {
+                                    "name": "N因子有排放超量风险",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "N因子总量排放超量",
+                                    "color": "danger"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "数据质量类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "数据空值行为",
+                            "tags": [
+                                {
+                                    "name": "存在空值",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "空值严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "数据缺失行为",
+                            "tags": [
+                                {
+                                    "name": "存在缺失",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "缺失严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "数据时效行为",
+                            "tags": [
+                                {
+                                    "name": "存在延迟",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "延迟严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "数据异常行为",
+                            "tags": [
+                                {
+                                    "name": "存在异常",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "异常严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "数据合法行为",
+                            "tags": [
+                                {
+                                    "name": "存在非法数据",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "非法数据严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "数据重复行为",
+                            "tags": [
+                                {
+                                    "name": "存在恒值",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "恒值严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "社会监督类",
+                    "collapsed": false,
+                    "children": [
+                        {
+                            "name": "举报投诉行为",
+                            "tags": [
+                                {
+                                    "name": "存在举报投诉",
+                                    "color": "warning"
+                                },
+                                {
+                                    "name": "举报投诉严重",
+                                    "color": "danger"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

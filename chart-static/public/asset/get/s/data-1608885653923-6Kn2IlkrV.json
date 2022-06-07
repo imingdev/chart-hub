@@ -1,0 +1,268 @@
+{
+    "target_progress": {
+        "total": {
+            "xList": [
+                "标准草案",
+                "标准/评价体系",
+                "标准体系研究报告",
+                "科技论文",
+                "研究报告",
+                "应用解决方案",
+                "软件性能",
+                "软件著作权",
+                "数据库(特色科技资源)",
+                "数据库(文献数据库)",
+                "专利",
+                "技术报告",
+                "软件系统",
+                "专著",
+                "核心企业应用示范",
+                "科技服务收入",
+                "应用示范",
+                "中小企业应用推广"
+            ],
+            "sData": [
+                {
+                    "totalTargetCount": 8,
+                    "completedCount": 2,
+                    "pendingCount": 6,
+                    "value": 25
+                },
+                {
+                    "totalTargetCount": 2,
+                    "completedCount": 0,
+                    "pendingCount": 2,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 1,
+                    "completedCount": 1,
+                    "pendingCount": 0,
+                    "value": 100
+                },
+                {
+                    "totalTargetCount": 29,
+                    "completedCount": 3,
+                    "pendingCount": 26,
+                    "value": 10
+                },
+                {
+                    "totalTargetCount": 2,
+                    "completedCount": 1,
+                    "pendingCount": 1,
+                    "value": 50
+                },
+                {
+                    "totalTargetCount": 7,
+                    "completedCount": 4,
+                    "pendingCount": 3,
+                    "value": 57
+                },
+                {
+                    "totalTargetCount": 2000,
+                    "completedCount": 1500,
+                    "pendingCount": 500,
+                    "value": 75
+                },
+                {
+                    "totalTargetCount": 13,
+                    "completedCount": 1,
+                    "pendingCount": 12,
+                    "value": 7
+                },
+                {
+                    "totalTargetCount": 210000,
+                    "completedCount": 30000,
+                    "pendingCount": 180000,
+                    "value": 14
+                },
+                {
+                    "totalTargetCount": 100000000,
+                    "completedCount": 50000000,
+                    "pendingCount": 50000000,
+                    "value": 50
+                },
+                {
+                    "totalTargetCount": 10,
+                    "completedCount": 3,
+                    "pendingCount": 7,
+                    "value": 30
+                },
+                {
+                    "totalTargetCount": 14,
+                    "completedCount": 6,
+                    "pendingCount": 8,
+                    "value": 42
+                },
+                {
+                    "totalTargetCount": 6,
+                    "completedCount": 3,
+                    "pendingCount": 3,
+                    "value": 50
+                },
+                {
+                    "totalTargetCount": 1,
+                    "completedCount": 0,
+                    "pendingCount": 1,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 10,
+                    "completedCount": 2,
+                    "pendingCount": 8,
+                    "value": 20
+                },
+                {
+                    "totalTargetCount": 100000000,
+                    "completedCount": 5500001,
+                    "pendingCount": 94499999,
+                    "value": 5
+                },
+                {
+                    "totalTargetCount": 1,
+                    "completedCount": 1,
+                    "pendingCount": 0,
+                    "value": 100
+                },
+                {
+                    "totalTargetCount": 1000,
+                    "completedCount": 308,
+                    "pendingCount": 692,
+                    "value": 30
+                }
+            ]
+        },
+        "midterm": {
+            "xList": [
+                "标准草案",
+                "标准/评价体系",
+                "标准体系研究报告",
+                "科技论文",
+                "研究报告",
+                "应用解决方案",
+                "软件性能",
+                "软件著作权",
+                "数据库(特色科技资源)",
+                "数据库(文献数据库)",
+                "专利",
+                "技术报告",
+                "软件系统",
+                "专著",
+                "核心企业应用示范",
+                "科技服务收入",
+                "应用示范",
+                "中小企业应用推广"
+            ],
+            "sData": [
+                {
+                    "totalTargetCount": 3,
+                    "completedCount": 2,
+                    "pendingCount": 1,
+                    "value": 66
+                },
+                {
+                    "totalTargetCount": 0,
+                    "completedCount": 0,
+                    "pendingCount": 0,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 0,
+                    "completedCount": 1,
+                    "pendingCount": 0,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 11,
+                    "completedCount": 3,
+                    "pendingCount": 8,
+                    "value": 27
+                },
+                {
+                    "totalTargetCount": 1,
+                    "completedCount": 1,
+                    "pendingCount": 0,
+                    "value": 100
+                },
+                {
+                    "totalTargetCount": 2,
+                    "completedCount": 4,
+                    "pendingCount": 0,
+                    "value": 200
+                },
+                {
+                    "totalTargetCount": 0,
+                    "completedCount": 1500,
+                    "pendingCount": 0,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 4,
+                    "completedCount": 1,
+                    "pendingCount": 3,
+                    "value": 25
+                },
+                {
+                    "totalTargetCount": 120000,
+                    "completedCount": 30000,
+                    "pendingCount": 90000,
+                    "value": 25
+                },
+                {
+                    "totalTargetCount": 50000000,
+                    "completedCount": 50000000,
+                    "pendingCount": 0,
+                    "value": 100
+                },
+                {
+                    "totalTargetCount": 3,
+                    "completedCount": 3,
+                    "pendingCount": 0,
+                    "value": 100
+                },
+                {
+                    "totalTargetCount": 3,
+                    "completedCount": 6,
+                    "pendingCount": 0,
+                    "value": 200
+                },
+                {
+                    "totalTargetCount": 1,
+                    "completedCount": 3,
+                    "pendingCount": 0,
+                    "value": 300
+                },
+                {
+                    "totalTargetCount": 0,
+                    "completedCount": 0,
+                    "pendingCount": 0,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 4,
+                    "completedCount": 2,
+                    "pendingCount": 2,
+                    "value": 50
+                },
+                {
+                    "totalTargetCount": 30000000,
+                    "completedCount": 5500001,
+                    "pendingCount": 24499999,
+                    "value": 18
+                },
+                {
+                    "totalTargetCount": 0,
+                    "completedCount": 1,
+                    "pendingCount": 0,
+                    "value": 0
+                },
+                {
+                    "totalTargetCount": 400,
+                    "completedCount": 308,
+                    "pendingCount": 92,
+                    "value": 77
+                }
+            ]
+        }
+    }
+}

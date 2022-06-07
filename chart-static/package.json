@@ -1,0 +1,23 @@
+{
+  "name": "chart-static",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development node src/main.js",
+    "build": "cross-env NODE_ENV=production node src/main.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.3",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "consola": "^2.15.3",
+    "cross-env": "^7.0.3"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

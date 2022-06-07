@@ -1,0 +1,53 @@
+.container {
+  position: relative;
+  width: 34px;
+  margin: auto;
+  animation: rotateAnimation 2s linear infinite;
+
+  &::before {
+    display: block;
+    padding-bottom: 100%;
+    content: "";
+  }
+}
+
+.svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.circle {
+  stroke: currentColor;
+  stroke-linecap: round;
+  animation: circularAnimation 1.5s ease-in-out infinite;
+}
+
+@keyframes rotateAnimation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes circularAnimation {
+  0% {
+    stroke-dasharray: 1, 200;
+    stroke-dashoffset: 0;
+  }
+
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -40;
+  }
+
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -120;
+  }
+}

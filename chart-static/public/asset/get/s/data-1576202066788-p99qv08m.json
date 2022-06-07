@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "100000",
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [ "@@" ],
+          [ "@@" ],
+          [ "@@" ]
+        ],
+        "encodeOffsets": [
+          [ [ 0, 20508 ] ],
+          [ [ 123335, 22980 ] ],
+          [ [ 82455, 44869 ] ]
+        ]
+      },
+      "properties": {
+        "cp": [ 16.4551, 40.2539 ],
+        "name": "",
+        "childNum": 1
+      }
+    }
+  ],
+  "UTF8Encoding": true
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "date": 1586966400000,
+    "latitude": "39.900000",
+    "num5g": 10584,
+    "percent": 9.2206,
+    "sourceCity": "北京",
+    "longitude": "116.400000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "32.070000",
+    "num5g": 10391,
+    "percent": 9.0524,
+    "sourceCity": "南京",
+    "longitude": "118.780000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.300000",
+    "num5g": 7694,
+    "percent": 6.7028,
+    "sourceCity": "苏州",
+    "longitude": "120.580000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "22.550000",
+    "num5g": 6956,
+    "percent": 6.0599,
+    "sourceCity": "深圳",
+    "longitude": "114.050000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.750000",
+    "num5g": 4098,
+    "percent": 3.5701,
+    "sourceCity": "郑州",
+    "longitude": "113.620000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "30.280000",
+    "num5g": 3848,
+    "percent": 3.3523,
+    "sourceCity": "杭州",
+    "longitude": "120.150000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "33.620000",
+    "num5g": 3308,
+    "percent": 2.8819,
+    "sourceCity": "周口",
+    "longitude": "114.650000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "29.570000",
+    "num5g": 3247,
+    "percent": 2.8287,
+    "sourceCity": "重庆",
+    "longitude": "106.550000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "23.130000",
+    "num5g": 3111,
+    "percent": 2.7102,
+    "sourceCity": "广州",
+    "longitude": "113.270000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.830000",
+    "num5g": 3027,
+    "percent": 2.6371,
+    "sourceCity": "合肥",
+    "longitude": "117.250000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "30.600000",
+    "num5g": 2988,
+    "percent": 2.6031,
+    "sourceCity": "武汉",
+    "longitude": "114.300000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.450000",
+    "num5g": 2591,
+    "percent": 2.2572,
+    "sourceCity": "商丘",
+    "longitude": "115.650000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.980000",
+    "num5g": 2439,
+    "percent": 2.1248,
+    "sourceCity": "南通",
+    "longitude": "120.880000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "32.900000",
+    "num5g": 2304,
+    "percent": 2.0072,
+    "sourceCity": "阜阳",
+    "longitude": "115.820000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "39.120000",
+    "num5g": 1947,
+    "percent": 1.6962,
+    "sourceCity": "天津",
+    "longitude": "117.200000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.270000",
+    "num5g": 1939,
+    "percent": 1.6892,
+    "sourceCity": "西安",
+    "longitude": "108.930000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.570000",
+    "num5g": 1870,
+    "percent": 1.6291,
+    "sourceCity": "无锡",
+    "longitude": "120.300000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "29.880000",
+    "num5g": 1865,
+    "percent": 1.6247,
+    "sourceCity": "宁波",
+    "longitude": "121.550000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "32.980000",
+    "num5g": 1768,
+    "percent": 1.5402,
+    "sourceCity": "驻马店",
+    "longitude": "114.020000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "28.230000",
+    "num5g": 1759,
+    "percent": 1.5324,
+    "sourceCity": "长沙",
+    "longitude": "112.930000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "35.140000",
+    "num5g": 1732,
+    "percent": 1.5089,
+    "sourceCity": "菏泽",
+    "longitude": "115.260000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "33.000000",
+    "num5g": 1710,
+    "percent": 1.4897,
+    "sourceCity": "南阳",
+    "longitude": "112.520000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "32.130000",
+    "num5g": 1641,
+    "percent": 1.4296,
+    "sourceCity": "信阳",
+    "longitude": "114.070000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "35.050000",
+    "num5g": 1516,
+    "percent": 1.3207,
+    "sourceCity": "临沂",
+    "longitude": "118.350000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "36.070000",
+    "num5g": 1496,
+    "percent": 1.3033,
+    "sourceCity": "青岛",
+    "longitude": "120.380000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "22.820000",
+    "num5g": 1483,
+    "percent": 1.292,
+    "sourceCity": "南宁",
+    "longitude": "108.370000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "45.800000",
+    "num5g": 1461,
+    "percent": 1.2728,
+    "sourceCity": "哈尔滨",
+    "longitude": "126.530000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "30.670000",
+    "num5g": 1405,
+    "percent": 1.224,
+    "sourceCity": "成都",
+    "longitude": "104.070000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "33.850000",
+    "num5g": 1378,
+    "percent": 1.2005,
+    "sourceCity": "亳州",
+    "longitude": "115.780000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "33.630000",
+    "num5g": 1371,
+    "percent": 1.1944,
+    "sourceCity": "宿州",
+    "longitude": "116.980000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.620000",
+    "num5g": 1350,
+    "percent": 1.1761,
+    "sourceCity": "洛阳",
+    "longitude": "112.450000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "33.350000",
+    "num5g": 1319,
+    "percent": 1.1491,
+    "sourceCity": "盐城",
+    "longitude": "120.150000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "30.750000",
+    "num5g": 1303,
+    "percent": 1.1351,
+    "sourceCity": "嘉兴",
+    "longitude": "120.750000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.270000",
+    "num5g": 1275,
+    "percent": 1.1108,
+    "sourceCity": "徐州",
+    "longitude": "117.180000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "38.920000",
+    "num5g": 1243,
+    "percent": 1.0829,
+    "sourceCity": "大连",
+    "longitude": "121.620000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "41.800000",
+    "num5g": 1177,
+    "percent": 1.0254,
+    "sourceCity": "沈阳",
+    "longitude": "123.430000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "32.920000",
+    "num5g": 1133,
+    "percent": 0.987,
+    "sourceCity": "蚌埠",
+    "longitude": "117.380000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.330000",
+    "num5g": 1118,
+    "percent": 0.974,
+    "sourceCity": "芜湖",
+    "longitude": "118.380000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "36.670000",
+    "num5g": 1114,
+    "percent": 0.9705,
+    "sourceCity": "济南",
+    "longitude": "116.980000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "32.400000",
+    "num5g": 1093,
+    "percent": 0.9522,
+    "sourceCity": "扬州",
+    "longitude": "119.400000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "43.900000",
+    "num5g": 1049,
+    "percent": 0.9139,
+    "sourceCity": "长春",
+    "longitude": "125.320000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.780000",
+    "num5g": 1030,
+    "percent": 0.8973,
+    "sourceCity": "常州",
+    "longitude": "119.950000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "28.680000",
+    "num5g": 1015,
+    "percent": 0.8842,
+    "sourceCity": "南昌",
+    "longitude": "115.850000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "23.050000",
+    "num5g": 1012,
+    "percent": 0.8816,
+    "sourceCity": "东莞",
+    "longitude": "113.750000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "31.770000",
+    "num5g": 990,
+    "percent": 0.8625,
+    "sourceCity": "六安",
+    "longitude": "116.500000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "35.420000",
+    "num5g": 953,
+    "percent": 0.8302,
+    "sourceCity": "济宁",
+    "longitude": "116.580000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "33.970000",
+    "num5g": 937,
+    "percent": 0.8163,
+    "sourceCity": "宿迁",
+    "longitude": "118.280000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.030000",
+    "num5g": 934,
+    "percent": 0.8137,
+    "sourceCity": "许昌",
+    "longitude": "113.850000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "26.080000",
+    "num5g": 927,
+    "percent": 0.8076,
+    "sourceCity": "福州",
+    "longitude": "119.300000"
+  },
+  {
+    "date": 1586966400000,
+    "latitude": "34.820000",
+    "num5g": 888,
+    "percent": 0.7736,
+    "sourceCity": "枣庄",
+    "longitude": "117.320000"
+  }
+]

@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.1draft"
+  xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
+  <meta lastmodified="2019-05-11T17:38:57.885586">
+  <creator>Gephi.org</creator>
+  <description>In Chart</description>
+  </meta>
+  <graph defaultedgetype="directed" label="In Chart" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="dynamic" />
+    <attributes class="edge" mode="static" />
+    <nodes>
+      <node id="0" label="Application0">
+        <attvalues>
+          <attvalue for="modularity_class" value="0" />
+        </attvalues>
+        <viz:size value="13" />
+      </node>
+      <node id="1" label="Application1">
+        <attvalues>
+          <attvalue for="modularity_class" value="0" />
+        </attvalues>
+        <viz:size value="10" />
+      </node>
+      <node id="2" label="Application2">
+        <attvalues>
+          <attvalue for="modularity_class" value="0" />
+        </attvalues>
+        <viz:size value="15" />
+      </node>
+      <node id="3" label="Application3">
+        <attvalues>
+          <attvalue for="modularity_class" value="0" />
+        </attvalues>
+        <viz:size value="18" />
+      </node>
+      <node id="4" label="Application4">
+        <attvalues>
+          <attvalue for="modularity_class" value="1" />
+        </attvalues>
+        <viz:size value="11" />
+      </node>
+      <node id="5" label="Application5">
+        <attvalues>
+          <attvalue for="modularity_class" value="1" />
+        </attvalues>
+        <viz:size value="15" />
+      </node>
+      <node id="6" label="Application6">
+        <attvalues>
+          <attvalue for="modularity_class" value="1" />
+        </attvalues>
+        <viz:size value="15" />
+      </node>
+      <node id="7" label="Application7">
+        <attvalues>
+          <attvalue for="modularity_class" value="1" />
+        </attvalues>
+        <viz:size value="11" />
+      </node>
+      <node id="8" label="Application8">
+        <attvalues>
+          <attvalue for="modularity_class" value="2" />
+        </attvalues>
+        <viz:size value="3" />
+      </node>
+      <node id="9" label="Application9">
+        <attvalues>
+          <attvalue for="modularity_class" value="2" />
+        </attvalues>
+        <viz:size value="6" />
+      </node>
+      <node id="10" label="Application10">
+        <attvalues>
+          <attvalue for="modularity_class" value="2" />
+        </attvalues>
+        <viz:size value="19" />
+      </node>
+      <node id="11" label="Application11">
+        <attvalues>
+          <attvalue for="modularity_class" value="2" />
+        </attvalues>
+        <viz:size value="7" />
+      </node>
+      <node id="12" label="Application12">
+        <attvalues>
+          <attvalue for="modularity_class" value="3" />
+        </attvalues>
+        <viz:size value="16" />
+      </node>
+      <node id="13" label="Application13">
+        <attvalues>
+          <attvalue for="modularity_class" value="3" />
+        </attvalues>
+        <viz:size value="13" />
+      </node>
+      <node id="14" label="Application14">
+        <attvalues>
+          <attvalue for="modularity_class" value="3" />
+        </attvalues>
+        <viz:size value="17" />
+      </node>
+      <node id="15" label="Application15">
+        <attvalues>
+          <attvalue for="modularity_class" value="3" />
+        </attvalues>
+        <viz:size value="8" />
+      </node>
+      <node id="16" label="Application16">
+        <attvalues>
+          <attvalue for="modularity_class" value="4" />
+        </attvalues>
+        <viz:size value="8" />
+      </node>
+      <node id="17" label="Application17">
+        <attvalues>
+          <attvalue for="modularity_class" value="4" />
+        </attvalues>
+        <viz:size value="9" />
+      </node>
+      <node id="18" label="Application18">
+        <attvalues>
+          <attvalue for="modularity_class" value="4" />
+        </attvalues>
+        <viz:size value="8" />
+      </node>
+      <node id="19" label="Application19">
+        <attvalues>
+          <attvalue for="modularity_class" value="4" />
+        </attvalues>
+        <viz:size value="3" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="10" target="19" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="1" source="8" target="2" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="2" source="17" target="7" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="3" source="3" target="11" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="4" source="7" target="13" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="5" source="13" target="17" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="6" source="8" target="12" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="7" source="13" target="12" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="8" source="16" target="6" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="9" source="11" target="16" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="10" source="15" target="3" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="11" source="15" target="13" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="12" source="2" target="15" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="13" source="19" target="8" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="14" source="4" target="9" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="15" source="13" target="18" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="16" source="8" target="5" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="17" source="5" target="7" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="18" source="2" target="15" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="19" source="5" target="9" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="20" source="3" target="7" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="21" source="1" target="17" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="22" source="2" target="9" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="23" source="18" target="3" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="24" source="14" target="5" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="25" source="13" target="3" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="26" source="5" target="3" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="27" source="5" target="3" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="28" source="11" target="7" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="29" source="6" target="3" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="30" source="19" target="18" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="31" source="17" target="7" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="32" source="5" target="14" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="33" source="6" target="3" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="34" source="5" target="9" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="35" source="14" target="8" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="36" source="3" target="5" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="37" source="18" target="0" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="38" source="14" target="8" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="39" source="16" target="13" weight="3">
+        <attvalues/>
+      </edge>
+      <edge id="40" source="2" target="16" weight="4">
+        <attvalues/>
+      </edge>
+      <edge id="41" source="19" target="4" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="42" source="3" target="9" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="43" source="11" target="2" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="44" source="0" target="14" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="45" source="1" target="15" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="46" source="13" target="14" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="47" source="0" target="14" weight="2">
+        <attvalues/>
+      </edge>
+      <edge id="48" source="3" target="3" weight="1">
+        <attvalues/>
+      </edge>
+      <edge id="49" source="17" target="14" weight="4">
+        <attvalues/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

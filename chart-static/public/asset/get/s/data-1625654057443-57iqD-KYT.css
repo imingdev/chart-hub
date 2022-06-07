@@ -1,0 +1,98 @@
+body {
+	background-color: #0D1447;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	margin: auto;
+}
+
+/* 修改容器大小即可自适应 */
+.box-wrap {
+	width: 200px;
+	height: 200px;
+	border: 3px solid #0bc8e8;
+	border-radius: 50%;
+}
+
+.box {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	border: 4px solid transparent;
+	box-sizing: border-box;
+	border-radius: 100%;
+	/** 解决增加圆角后超出部分不隐藏bug */
+	z-index: 1;
+	overflow: hidden;
+}
+
+/* 波纹填充区域 */
+.fill-area {
+	position: absolute;
+	left: 0;
+	bottom: calc(-100% - 22%);
+	width: 100%;
+	height: 100%;
+	/* 前置波纹颜色 */
+	--front-color: #0bc8e8;
+	/* 后置波纹颜色 */
+	--back-color: #0b6d98;
+	transform: translateY(0);
+	background-color: var(--front-color);
+	animation: fill-scale 6s ease infinite;
+}
+
+@keyframes fill-scale {
+	from {
+		transform: translateY(0);
+	}
+}
+
+.waves {
+	position: absolute;
+	left: 0;
+	bottom: 100%;
+	width: 200%;
+	stroke: none;
+	/* 解决水球图中间有一条线问题 */
+	box-shadow: 0 10px 4px 4px var(--front-color);
+}
+
+.front-wave {
+	fill: var(--front-color);
+	transform: translate(-50%, 0);
+	animation: front-wave-move 3s linear infinite;
+}
+
+@keyframes front-wave-move {
+	100% {
+		transform: translate(0, 0);
+	}
+}
+
+.back-wave {
+	fill: var(--back-color);
+	transform: translate(0, 0);
+	animation: back-wave-move 1.5s linear infinite;
+}
+
+@keyframes back-wave-move {
+	100% {
+		transform: translate(-50%, 0);
+	}
+}
+
+.text {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+	z-index: 20;
+}

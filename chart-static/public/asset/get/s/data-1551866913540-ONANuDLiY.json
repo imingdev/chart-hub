@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "time": "2017-06-27T11:00:00.000Z",
+            "windSpeed": 9,
+            "R": "NNW",
+            "waveHeight": 2.64
+        },
+        {
+            "time": "2017-06-27T14:00:00.000Z",
+            "windSpeed": 12,
+            "R": "NNW",
+            "waveHeight": 2.49
+        },
+        {
+            "time": "2017-06-27T17:00:00.000Z",
+            "windSpeed": 11,
+            "R": "NNW",
+            "waveHeight": 2.38
+        },
+        {
+            "time": "2017-06-27T20:00:00.000Z",
+            "windSpeed": 10,
+            "R": "N",
+            "waveHeight": 2.3
+        },
+        {
+            "time": "2017-06-27T23:00:00.000Z",
+            "windSpeed": 12,
+            "R": "NNW",
+            "waveHeight": 2.22
+        },
+        {
+            "time": "2017-06-28T02:00:00.000Z",
+            "windSpeed": 12,
+            "R": "N",
+            "waveHeight": 2.13
+        },
+        {
+            "time": "2017-06-28T05:00:00.000Z",
+            "windSpeed": 12,
+            "R": "NNE",
+            "waveHeight": 2.04
+        },
+        {
+            "time": "2017-06-28T08:00:00.000Z",
+            "windSpeed": 9,
+            "R": "N",
+            "waveHeight": 1.99
+        },
+        {
+            "time": "2017-06-28T11:00:00.000Z",
+            "windSpeed": 8,
+            "R": "NW",
+            "waveHeight": 2.01
+        },
+        {
+            "time": "2017-06-28T14:00:00.000Z",
+            "windSpeed": 9,
+            "R": "WNW",
+            "waveHeight": 2.12
+        },
+        {
+            "time": "2017-06-28T17:00:00.000Z",
+            "windSpeed": 11,
+            "R": "WNW",
+            "waveHeight": 2.27
+        },
+        {
+            "time": "2017-06-28T20:00:00.000Z",
+            "windSpeed": 13,
+            "R": "NW",
+            "waveHeight": 2.39
+        },
+        {
+            "time": "2017-06-28T23:00:00.000Z",
+            "windSpeed": 14,
+            "R": "NW",
+            "waveHeight": 2.46
+        },
+        {
+            "time": "2017-06-29T02:00:00.000Z",
+            "windSpeed": 18,
+            "R": "NNW",
+            "waveHeight": 2.49
+        },
+        {
+            "time": "2017-06-29T05:00:00.000Z",
+            "windSpeed": 22,
+            "R": "W",
+            "waveHeight": 2.58
+        },
+        {
+            "time": "2017-06-29T08:00:00.000Z",
+            "windSpeed": 30,
+            "R": "WSW",
+            "waveHeight": 3.21
+        },
+        {
+            "time": "2017-06-29T11:00:00.000Z",
+            "windSpeed": 29,
+            "R": "SW",
+            "waveHeight": 3.94
+        },
+        {
+            "time": "2017-06-29T14:00:00.000Z",
+            "windSpeed": 29,
+            "R": "SW",
+            "waveHeight": 4.22
+        },
+        {
+            "time": "2017-06-29T17:00:00.000Z",
+            "windSpeed": 28,
+            "R": "SW",
+            "waveHeight": 4.28
+        },
+        {
+            "time": "2017-06-29T20:00:00.000Z",
+            "windSpeed": 30,
+            "R": "SSW",
+            "waveHeight": 4.45
+        },
+        {
+            "time": "2017-06-29T23:00:00.000Z",
+            "windSpeed": 27,
+            "R": "SSW",
+            "waveHeight": 4.45
+        },
+        {
+            "time": "2017-06-30T02:00:00.000Z",
+            "windSpeed": 25,
+            "R": "SSW",
+            "waveHeight": 4.2
+        },
+        {
+            "time": "2017-06-30T05:00:00.000Z",
+            "windSpeed": 20,
+            "R": "SSW",
+            "waveHeight": 3.82
+        },
+        {
+            "time": "2017-06-30T08:00:00.000Z",
+            "windSpeed": 19,
+            "R": "SSW",
+            "waveHeight": 3.51
+        },
+        {
+            "time": "2017-06-30T11:00:00.000Z",
+            "windSpeed": 14,
+            "R": "SSW",
+            "waveHeight": 3.22
+        }
+    ]
+}

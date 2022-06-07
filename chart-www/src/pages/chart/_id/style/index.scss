@@ -1,0 +1,14 @@
+@import "~@/assets/scss/mixin";
+
+.container {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  padding-top: $headerHeight;
+  overflow: hidden;
+  background-color: #f3f4fa;
+}

@@ -1,0 +1,77 @@
+export default [{
+  label: '全部',
+  value: null,
+  icon: 'chart-all',
+}, {
+  label: '折线图',
+  value: 'line',
+  icon: 'chart-line',
+}, {
+  label: '柱状图',
+  value: 'bar',
+  icon: 'chart-bar',
+}, {
+  label: '饼图',
+  value: 'pie',
+  icon: 'chart-pie',
+}, {
+  label: '散点图',
+  value: 'scatter',
+  icon: 'chart-scatter',
+}, {
+  label: '地图',
+  value: 'map',
+  icon: 'chart-map',
+}, {
+  label: '线图',
+  value: 'lines',
+  icon: 'chart-lines',
+}, {
+  label: '箱线图',
+  value: 'boxplot',
+  icon: 'chart-boxplot',
+}, {
+  label: 'K 线图',
+  value: 'candlestick',
+  icon: 'chart-candlestick',
+}, {
+  label: '雷达图',
+  value: 'radar',
+  icon: 'chart-radar',
+}, {
+  label: '关系图',
+  value: 'graph',
+  icon: 'chart-graph',
+}, {
+  label: '热力图',
+  value: 'heatmap',
+  icon: 'chart-heatmap',
+}, {
+  label: '矩形树图',
+  value: 'treemap',
+  icon: 'chart-treemap',
+}, {
+  label: '桑葚图',
+  value: 'sankey',
+  icon: 'chart-sanvalue',
+}, {
+  label: '词云图',
+  value: 'wordCloud',
+  icon: 'chart-wordCloud',
+}, {
+  label: '漏斗图',
+  value: 'funnel',
+  icon: 'chart-funnel',
+}, {
+  label: '平行坐标',
+  value: 'parallel',
+  icon: 'chart-parallel',
+}, {
+  label: '仪表盘',
+  value: 'gauge',
+  icon: 'chart-gauge',
+}, {
+  label: '自定义系列',
+  value: 'custom',
+  icon: 'chart-custom',
+}];

@@ -1,0 +1,60 @@
+@use "sass:math";
+@import "~@/assets/scss/mixin";
+
+.container {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  padding-top: $headerHeight;
+  overflow: hidden;
+}
+
+.wrapper {
+  flex: 1;
+  width: 0;
+  padding: 10px 30px 30px 0;
+  overflow-y: auto;
+  background-color: #f3f4fa;
+}
+
+.inner {
+  @include clear;
+}
+
+.item {
+  float: left;
+  width: math.div(100%, 6);
+  box-sizing: border-box;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.footerLoad {
+  display: flex;
+  width: 300px;
+  height: 40px;
+  margin: 20px auto;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  background-color: #fff;
+}
+
+.loadIcon {
+  width: 18px;
+  height: 18px;
+}
+
+.loadText {
+  margin-left: 10px;
+  color: #aa80ff;
+}
+
+.noMore {
+  color: #999;
+}

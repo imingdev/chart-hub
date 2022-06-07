@@ -1,0 +1,38 @@
+@import "~@/assets/scss/mixin";
+
+.container {
+  position: relative;
+  width: 100%;
+  height: $headerHeight;
+}
+
+.inner {
+  display: flex;
+  height: $headerHeight;
+  padding: 0 24px;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: rgba(0, 0, 0, 0.2) 0 0 20px 0;
+  backdrop-filter: blur(20px);
+
+  &.isFixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  color: #5470c6;
+}
+
+.logoIcon {
+  height: 34px;
+}
+
+.logoText {
+  font-size: 20px;
+}

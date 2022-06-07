@@ -1,0 +1,43 @@
+{
+"nodes":[
+{"node":0,"name":"Business_Yr1"},
+{"node":1,"name":"Agric. & Nat. Res. Cons"},
+{"node":2,"name":"Architecture"},
+{"node":3,"name":"Area, Eth. & Multidiscip. Studies"},
+{"node":4,"name":"Arts: Visual & Performing"},
+{"node":5,"name":"Business_Yr2"},
+{"node":6,"name":"Commun, Fam., & Personal Svcs"},
+{"node":7,"name":"Communications"},
+{"node":8,"name":"Comp. Sci. & Mathematics"},
+{"node":9,"name":"Education"},
+{"node":10,"name":"Eng. Tech. & Drafting"},
+{"node":11,"name":"Engineering"},
+{"node":12,"name":"English & Foreign Lang."},
+{"node":13,"name":"Health Admin. & Assisting"},
+{"node":14,"name":"Health Sci. & Techno."},
+{"node":15,"name":"Philosophy, Religion, & Theology"},
+{"node":16,"name":"Repair, Production, & Construction"},
+{"node":17,"name":"Sciences: Biological & Physical"},
+{"node":18,"name":"Social Sciences & Law"}
+],
+"links":[
+{"source":0,"target":1,"value":114},
+{"source":0,"target":2,"value":29},
+{"source":0,"target":3,"value":14},
+{"source":0,"target":4,"value":194},
+{"source":0,"target":5,"value":8296},
+{"source":0,"target":6,"value":664},
+{"source":0,"target":7,"value":617},
+{"source":0,"target":8,"value":297},
+{"source":0,"target":9,"value":325},
+{"source":0,"target":10,"value":104},
+{"source":0,"target":11,"value":159},
+{"source":0,"target":12,"value":157},
+{"source":0,"target":13,"value":72},
+{"source":0,"target":14,"value":224},
+{"source":0,"target":15,"value":34},
+{"source":0,"target":16,"value":83},
+{"source":0,"target":17,"value":238},
+{"source":0,"target":18,"value":675}
+]}
+

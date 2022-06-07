@@ -1,0 +1,107 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+
+</title>
+
+    <style type="text/css">
+        
+    table,th,td{ border-collapse:collapse;}
+	.list th,.list td{ border:1px solid #cdcdcd;}
+	table.list td.tdspace{ padding:0px; height:6px;}
+	table.list{ width:99%;}
+	table.list th{ height:26px; line-height:26px; background:#e0f3ff; font-weight:normal;}
+	table.list td{ padding:4px 8px; vertical-align:middle;}
+    table.list tbody td a {text-decoration:underline;  color:#0089e0;}
+         
+	table caption{ margin:1em 0; font-weight:bold;}
+	table.list  tbody tr:hover{ background:#efefef;}
+    table.list .altrow { border:none;/*background:#efefef;*/ }
+
+    /*工资条类型数据列表*/
+table.SalaryType{ border-collapse:collapse; /*table-layout:fixed;*/ width:100%;}
+table.SalaryType th, table.SalaryType td{ text-align:center; line-height:22px; padding:2px 2px;}
+table.SalaryType th{ font-weight:400; word-break: keep-all; }
+table.SalaryType thead th{ border:none;}
+/*table.SalaryType thead tr:last-child,table.SalaryType tbody tr:last-child{ border-bottom:1px solid #333;}*/
+table.SalaryType tbody td{ /*text-align:right;*/}
+table.SalaryType thead, table.SalaryType tbody {border-bottom:1px solid black;}
+           
+    </style>
+</head>
+<body>
+    <form name="formXls" method="post" action="ExportData.aspx?rdm=0.3664610313717276" id="formXls">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+</div>
+
+        <div id="divXlsMain">
+
+
+<div class="divListMain" id="divListb7b6e217ec334da8a20602c0b3569c31-8F431C90" enabeleditcell="False">
+	<table class="list" id="table-b7b6e217ec334da8a20602c0b3569c31-8F431C90" fixColumn="0" fixRow="0" RowColSpanIndex="" style="background-color:white;">
+		<thead>
+			<tr>
+				<th>序号</th><th>科室名称</th><th>项目金额</th><th>科室收入</th><th>药品费用</th><th>药占比%</th>
+			</tr>
+		</thead><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">1</td><td>保健部</td><td style="text-align:right;">1124804.2</td><td style="text-align:right;">1124804.2</td><td style="text-align:right;">224572.92</td><td style="text-align:right;">19.97</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">2</td><td>产科</td><td style="text-align:right;">10753290.75</td><td style="text-align:right;">10753290.75</td><td style="text-align:right;">1352057.96</td><td style="text-align:right;">12.57</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">3</td><td>产前诊断</td><td style="text-align:right;">189439.4</td><td style="text-align:right;">189439.4</td><td style="text-align:right;">7210.1</td><td style="text-align:right;">3.81</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">4</td><td>妇科</td><td style="text-align:right;">8152922.71</td><td style="text-align:right;">8152922.71</td><td style="text-align:right;">2989152.86</td><td style="text-align:right;">36.66</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">5</td><td>宫颈科</td><td style="text-align:right;">727268.4</td><td style="text-align:right;">727268.4</td><td style="text-align:right;">201750.3</td><td style="text-align:right;">27.74</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">6</td><td>国际妇产中心</td><td style="text-align:right;">2282351.4</td><td style="text-align:right;">2282351.4</td><td style="text-align:right;">139399.72</td><td style="text-align:right;">6.11</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">7</td><td>计生科</td><td style="text-align:right;">1467399.19</td><td style="text-align:right;">1467399.19</td><td style="text-align:right;">328827.94</td><td style="text-align:right;">22.41</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">8</td><td>检验科</td><td style="text-align:right;">38172.42</td><td style="text-align:right;">38172.42</td><td style="text-align:right;">1872.32</td><td style="text-align:right;">4.9</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">9</td><td>麻醉科</td><td style="text-align:right;">214395.47</td><td style="text-align:right;">214395.47</td><td style="text-align:right;">57455.61</td><td style="text-align:right;">26.8</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">10</td><td>美容科</td><td style="text-align:right;">88084.8</td><td style="text-align:right;">88084.8</td><td style="text-align:right;">24</td><td style="text-align:right;">0.03</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">11</td><td>名医会所</td><td style="text-align:right;">399491.27</td><td style="text-align:right;">399491.27</td><td style="text-align:right;">22326.57</td><td style="text-align:right;">5.59</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">12</td><td>内科</td><td style="text-align:right;">51179.53</td><td style="text-align:right;">51179.53</td><td style="text-align:right;">31800.03</td><td style="text-align:right;">62.13</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">13</td><td>皮肤科</td><td style="text-align:right;">661.8</td><td style="text-align:right;">661.8</td><td style="text-align:right;">416.2</td><td style="text-align:right;">62.89</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">14</td><td>乳腺科</td><td style="text-align:right;">1401648.94</td><td style="text-align:right;">1401648.94</td><td style="text-align:right;">642020.43</td><td style="text-align:right;">45.8</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">15</td><td>生殖中心</td><td style="text-align:right;">1096998.09</td><td style="text-align:right;">1096998.09</td><td style="text-align:right;">411697.45</td><td style="text-align:right;">37.53</td>
+		</tr><tr onmouseover=" this.style.cursor='pointer';">
+			<td style="text-align:center;">16</td><td>新生儿科</td><td style="text-align:right;">722934.17</td><td style="text-align:right;">722934.17</td><td style="text-align:right;">115565.33</td><td style="text-align:right;">15.99</td>
+		</tr><tr>
+			<td>　</td><td>　</td><td>　</td><td>　</td><td>　</td><td>　</td>
+		</tr><tr>
+			<td>　</td><td>　</td><td>　</td><td>　</td><td>　</td><td>　</td>
+		</tr> 
+      <div style='width:100%;  margin:10px auto ;'>
+              <table style="width:100%; font-size:14px;">
+                   <tr>
+                      <td  colspan="5" style='width:50% ;'>打印人：钟玉敏</td>
+                      <td  colspan="5" style=' width:50%;text-align:right;'>打印时间：2017/3/30 17:08:57</td>
+                   </tr>
+              </table>     
+              </div>
+       
+
+	</table>
+</div>
+
+<table></table>
+</div>
+    </form>
+</body>
+</html>
+<!--24119065260490390282012916-->
+<script> var _trace_page_logid = 2411906526; </script>

@@ -1,0 +1,105 @@
+@font-face {
+  font-family: iconfont;
+  src: url("./fonts/iconfont.eot");
+  src: url("./fonts/iconfont.eot#iefix") format("embedded-opentype"),
+    url("./fonts/iconfont.woff") format("woff"),
+    url("./fonts/iconfont.woff2") format("woff2"),
+    url("./fonts/iconfont.ttf") format("truetype"),
+    url("./fonts/iconfont.svg#iconfont") format("svg");
+}
+
+.iconfont {
+  font-family: iconfont !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github::before {
+  content: "\e6f6";
+}
+
+.icon-chart-custom::before {
+  content: "\e640";
+}
+
+.icon-chart-gauge::before {
+  content: "\e6cf";
+}
+
+.icon-chart-all::before {
+  content: "\e629";
+}
+
+.icon-chart-parallel::before {
+  content: "\e690";
+}
+
+.icon-chart-funnel::before {
+  content: "\e68f";
+}
+
+.icon-chart-wordCloud::before {
+  content: "\e927";
+}
+
+.icon-chart-sanvalue::before {
+  content: "\e68e";
+}
+
+.icon-chart-treemap::before {
+  content: "\e68d";
+}
+
+.icon-chart-heatmap::before {
+  content: "\e68c";
+}
+
+.icon-chart-graph::before {
+  content: "\e68b";
+}
+
+.icon-chart-radar::before {
+  content: "\e68a";
+}
+
+.icon-chart-candlestick::before {
+  content: "\e689";
+}
+
+.icon-chart-boxplot::before {
+  content: "\ebd6";
+}
+
+.icon-chart-lines::before {
+  content: "\e76b";
+}
+
+.icon-chart-map::before {
+  content: "\e688";
+}
+
+.icon-chart-scatter::before {
+  content: "\e687";
+}
+
+.icon-chart-pie::before {
+  content: "\e686";
+}
+
+.icon-chart-line::before {
+  content: "\e685";
+}
+
+.icon-play::before {
+  content: "\e65d";
+}
+
+.icon-code::before {
+  content: "\e625";
+}
+
+.icon-chart-bar::before {
+  content: "\e683";
+}

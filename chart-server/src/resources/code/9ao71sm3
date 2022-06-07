@@ -1,0 +1,947 @@
+option = {
+  //backgroundColor: "#cccccc",
+  title: {
+    text: '1.16 2000年和2010年两期世界各国农村建设用地增长量',
+    subtext: '国家基础地理信息中心',
+    //sublink: 'http://esa.un.org/wpp/Excel-Data/population.htm',
+    left: 'center',
+    top: 'top'
+  },
+  tooltip: {
+    trigger: 'item',
+    formatter: function(params) {
+      var value = (params.value + '').split('.');
+      value = value[0] + '  km²';
+      return params.name + ' : ' + value;
+    }
+  },
+  toolbox: {
+    show: true,
+    orient: 'vertical',
+    left: 'right',
+    top: 'center',
+    feature: {
+      dataView: {
+        readOnly: false
+      },
+      restore: {},
+      saveAsImage: {}
+    }
+  },
+  visualMap: {
+    type: 'piecewise', //分段型。
+    splitNumber: 6,
+    inverse: true,
+    pieces: [{
+      min: -200,
+      max: -10,
+      color: '#ebdba4'
+    }, {
+      min: -10,
+      max: 0,
+      color: '#f2d643'
+    }, {
+      min: 0,
+      max: 10,
+      color: '#ffb248'
+    }, {
+      min: 10,
+      max: 100,
+      color: '#eb8146'
+    }, {
+      min: 100,
+      max: 1000,
+      color: '#d95850'
+    }, {
+      min: 1000,
+      //max: 1000,
+      color: '#893448'
+    }],
+    left: 'left',
+    top: 'bottom',
+    textStyle: {
+      color: '#000'
+    },
+    //min: 0,
+    //max: 60000,
+    //text:['High','Low'],
+    //realtime: true,
+    //calculable: true,
+    //color: ['red','orange','lightgreen']
+  },
+  series: [{
+    name: 'World Population (2010)',
+    type: 'map',
+    mapType: 'world',
+    roam: true,
+    itemStyle: {
+      emphasis: {
+        label: {
+          show: false
+        }
+      }
+    },
+    data: [{
+        name: 'Afghanistan',
+        value: 21.5577
+      },
+      {
+        name: 'Albania',
+        value: -4.077
+      },
+      {
+        name: 'Algeria',
+        value: 135.6219
+      },
+      {
+        name: 'Andorra',
+        value: -0.6633
+      },
+      {
+        name: 'Angola',
+        value: 568.1538
+      },
+      {
+        name: 'Antarctica',
+        value: 0
+      },
+      {
+        name: 'Antigua and Barbuda',
+        value: -13.2894
+      },
+      {
+        name: 'Argentina',
+        value: 206.3511
+      },
+      {
+        name: 'Armenia',
+        value: -0.567000000000007
+      },
+      {
+        name: 'Australia',
+        value: 634.257000000001
+      },
+      {
+        name: 'Austria',
+        value: 28.8719999999998
+      },
+      {
+        name: 'Azerbaijan',
+        value: -6.01650000000018
+      },
+      {
+        name: 'Bahamas, The',
+        value: 5.55030000000001
+      },
+      {
+        name: 'Bahrain',
+        value: 0.0441000000000003
+      },
+      {
+        name: 'Bangladesh',
+        value: 904.0167
+      },
+      {
+        name: 'Barbados',
+        value: -0.684899999999999
+      },
+      {
+        name: 'Belgium',
+        value: 3.86639999999989
+      },
+      {
+        name: 'Belize',
+        value: 2.03310000000002
+      },
+      {
+        name: 'Benin',
+        value: 28.7658
+      },
+      {
+        name: 'Bermuda',
+        value: -0.00450000000000017
+      },
+      {
+        name: 'Bhutan',
+        value: -5.6205
+      },
+      {
+        name: 'Bolivia',
+        value: 102.9438
+      },
+      {
+        name: 'Bosnia and Herzegovina',
+        value: 22.1679
+      },
+      {
+        name: 'Botswana',
+        value: 61.0776000000001
+      },
+      {
+        name: 'Brazil',
+        value: 1330.2783
+      },
+      {
+        name: 'Brunei',
+        value: 8.3412
+      },
+      {
+        name: 'Bulgaria',
+        value: -44.4834000000001
+      },
+      {
+        name: 'Burkina Faso',
+        value: 20.4606
+      },
+      {
+        name: 'Burundi',
+        value: 11.7144
+      },
+      {
+        name: 'Belarus',
+        value: -120.762
+      },
+      {
+        name: 'Cambodia',
+        value: 68.8356
+      },
+      {
+        name: 'Cameroon',
+        value: 87.5376
+      },
+      {
+        name: 'Canada',
+        value: 566.1423
+      },
+      {
+        name: 'Cape Verde',
+        value: -4.3335
+      },
+      {
+        name: 'Central African Republic',
+        value: 45.2907
+      },
+      {
+        name: 'Chad',
+        value: 115.2279
+      },
+      {
+        name: 'Chile',
+        value: 85.8734999999999
+      },
+      {
+        name: 'China',
+        value: 5910.45300000001
+      },
+      {
+        name: 'Colombia',
+        value: 22.8105
+      },
+      {
+        name: 'Comoros',
+        value: 0.747
+      },
+      {
+        name: 'Republic of the Congo',
+        value: 21.3084
+      },
+      {
+        name: 'Costa Rica',
+        value: -0.368099999999998
+      },
+      {
+        name: 'Croatia',
+        value: 63.1718999999998
+      },
+      {
+        name: 'Cuba',
+        value: -2.69729999999993
+      },
+      {
+        name: 'Cyprus',
+        value: -15.9084
+      },
+      {
+        name: 'Czech Republic',
+        value: 49.6116000000002
+      },
+      {
+        name: 'Denmark',
+        value: -112.2993
+      },
+      {
+        name: 'Djibouti',
+        value: 2.5731
+      },
+      {
+        name: 'Dominica',
+        value: -0.0224999999999991
+      },
+      {
+        name: 'Dominican Republic',
+        value: 45.4653
+      },
+      {
+        name: 'Ecuador',
+        value: 37.548
+      },
+      {
+        name: 'Egypt',
+        value: 42.759
+      },
+      {
+        name: 'El Salvador',
+        value: 8.85599999999999
+      },
+      {
+        name: 'Equatorial Guinea',
+        value: 77.1849
+      },
+      {
+        name: 'Eritrea',
+        value: 1.72890000000001
+      },
+      {
+        name: 'Estonia',
+        value: -11.1762
+      },
+      {
+        name: 'Ethiopia',
+        value: 146.9997
+      },
+      {
+        name: 'Falkland Islands (Islas Malvinas)',
+        value: -1.4949
+      },
+      {
+        name: 'Faroe Islands',
+        value: -0.0107999999999997
+      },
+      {
+        name: 'Fiji',
+        value: -3.0006
+      },
+      {
+        name: 'Finland',
+        value: -89.0838000000003
+      },
+      {
+        name: 'France',
+        value: 85.4622000000018
+      },
+      {
+        name: 'French Guiana',
+        value: -2.81609999999999
+      },
+      {
+        name: 'French Polynesia',
+        value: 0.0729000000000006
+      },
+      {
+        name: 'Gabon',
+        value: 6.44129999999998
+      },
+      {
+        name: 'Gambia, The',
+        value: -22.1913
+      },
+      {
+        name: 'Gaza Strip',
+        value: -2.511
+      },
+      {
+        name: 'Georgia',
+        value: 50.3000999999999
+      },
+      {
+        name: 'Germany',
+        value: -29.7324000000008
+      },
+      {
+        name: 'Ghana',
+        value: 172.7289
+      },
+      {
+        name: 'Greece',
+        value: 54.2312999999999
+      },
+      {
+        name: 'Greenland',
+        value: 0.6543
+      },
+      {
+        name: 'Grenada',
+        value: -0.1386
+      },
+      {
+        name: 'Guadeloupe',
+        value: 3.1095
+      },
+      {
+        name: 'Guatemala',
+        value: -8.4393
+      },
+      {
+        name: 'Guinea',
+        value: 21.6027
+      },
+      {
+        name: 'Guinea-Bissau',
+        value: -0.3339
+      },
+      {
+        name: 'Guyana',
+        value: -8.9127
+      },
+      {
+        name: 'Haiti',
+        value: 0.486900000000006
+      },
+      {
+        name: 'Honduras',
+        value: -1.00439999999998
+      },
+      {
+        name: 'Hong Kong',
+        value: -4.14449999999999
+      },
+      {
+        name: 'Hungary',
+        value: -12.6828000000005
+      },
+      {
+        name: 'Iceland',
+        value: 17.6436
+      },
+      {
+        name: 'India',
+        value: 800.418600000005
+      },
+      {
+        name: 'Indonesia',
+        value: 509.1867
+      },
+      {
+        name: 'Iran',
+        value: 221.191199999999
+      },
+      {
+        name: 'Iraq',
+        value: -0.993600000000015
+      },
+      {
+        name: 'Iraq-Saudi Arabia Neutral Zone',
+        value: 0
+      },
+      {
+        name: 'Ireland',
+        value: 26.7093
+      },
+      {
+        name: 'Isle of Man',
+        value: 3.5046
+      },
+      {
+        name: 'Israel',
+        value: -59.4999
+      },
+      {
+        name: 'Italy',
+        value: -23.7447000000011
+      },
+      {
+        name: 'Ivory Coast',
+        value: 188.856
+      },
+      {
+        name: 'Jamaica',
+        value: -3.36960000000002
+      },
+      {
+        name: 'Jan Mayen',
+        value: 0
+      },
+      {
+        name: 'Japan',
+        value: 31.7087999999994
+      },
+      {
+        name: 'Jordan',
+        value: -55.5003
+      },
+      {
+        name: 'Kazakhstan',
+        value: 696.990600000001
+      },
+      {
+        name: 'Kenya',
+        value: 52.5789
+      },
+      {
+        name: 'Kerguelen',
+        value: 0
+      },
+      {
+        name: 'Kiribati',
+        value: 0.00180000000000001
+      },
+      {
+        name: 'North Korea',
+        value: -28.5264000000001
+      },
+      {
+        name: 'South Korea',
+        value: 4.26420000000007
+      },
+      {
+        name: 'Kuwait',
+        value: 47.8098
+      },
+      {
+        name: 'Kyrgyzstan',
+        value: 61.4619
+      },
+      {
+        name: 'Laos',
+        value: 37.5291
+      },
+      {
+        name: 'Latvia',
+        value: -54.3249000000001
+      },
+      {
+        name: 'Lebanon',
+        value: -1.31129999999999
+      },
+      {
+        name: 'Lesotho',
+        value: 0.187199999999997
+      },
+      {
+        name: 'Liberia',
+        value: 15.4638
+      },
+      {
+        name: 'Libya',
+        value: -167.598
+      },
+      {
+        name: 'Liechtenstein',
+        value: -0.1584
+      },
+      {
+        name: 'Lithuania',
+        value: -22.8537000000001
+      },
+      {
+        name: 'Luxembourg',
+        value: -3.59189999999998
+      },
+      {
+        name: 'Macau',
+        value: 0.127800000000001
+      },
+      {
+        name: 'Macedonia',
+        value: 2.57130000000001
+      },
+      {
+        name: 'Madagascar',
+        value: 0.099899999999991
+      },
+      {
+        name: 'Malawi',
+        value: 20.6793
+      },
+      {
+        name: 'Malaysia',
+        value: 76.5963000000002
+      },
+      {
+        name: 'Maldives',
+        value: 0
+      },
+      {
+        name: 'Mali',
+        value: 48.9105000000001
+      },
+      {
+        name: 'Malta',
+        value: -0.108899999999998
+      },
+      {
+        name: 'Martinique',
+        value: -2.3337
+      },
+      {
+        name: 'Mauritania',
+        value: -51.3918
+      },
+      {
+        name: 'Mauritius',
+        value: 2.9619
+      },
+      {
+        name: 'Mexico',
+        value: 700.530299999999
+      },
+      {
+        name: 'Moldova',
+        value: -114.7113
+      },
+      {
+        name: 'Monaco',
+        value: -0.0630000000000002
+      },
+      {
+        name: 'Mongolia',
+        value: 62.3106
+      },
+      {
+        name: 'Morocco',
+        value: -12.9663
+      },
+      {
+        name: 'Mozambique',
+        value: 3.6549
+      },
+      {
+        name: 'Myanmar (Burma)',
+        value: 1098.0648
+      },
+      {
+        name: 'Namibia',
+        value: -17.9127
+      },
+      {
+        name: 'Nepal',
+        value: -5.07600000000002
+      },
+      {
+        name: 'Netherlands',
+        value: -66.8726999999999
+      },
+      {
+        name: 'New Caledonia',
+        value: -10.5993
+      },
+      {
+        name: 'New Zealand',
+        value: -44.1197999999999
+      },
+      {
+        name: 'Nicaragua',
+        value: -2.54519999999999
+      },
+      {
+        name: 'Niger',
+        value: -10.7873999999999
+      },
+      {
+        name: 'Nigeria',
+        value: 259.0956
+      },
+      {
+        name: 'Northern Mariana Islands',
+        value: -2.6559
+      },
+      {
+        name: 'Norway',
+        value: 225.1818
+      },
+      {
+        name: 'Oman',
+        value: 77.7798
+      },
+      {
+        name: 'Pakistan',
+        value: 69.1461000000004
+      },
+      {
+        name: 'Panama',
+        value: -8.32139999999998
+      },
+      {
+        name: 'Papua New Guinea',
+        value: -18.5805
+      },
+      {
+        name: 'Paraguay',
+        value: 47.5335
+      },
+      {
+        name: 'Peru',
+        value: 46.0467000000001
+      },
+      {
+        name: 'Philippines',
+        value: 49.5315000000001
+      },
+      {
+        name: 'Poland',
+        value: 172.841399999999
+      },
+      {
+        name: 'Portugal',
+        value: 216.135
+      },
+      {
+        name: 'Puerto Rico',
+        value: 12.7008
+      },
+      {
+        name: 'Qatar',
+        value: -5.337
+      },
+      {
+        name: 'Reunion',
+        value: 1.83689999999999
+      },
+      {
+        name: 'Romania',
+        value: -149.328
+      },
+      {
+        name: 'Russia',
+        value: 1287.93059999999
+      },
+      {
+        name: 'Rwanda',
+        value: 9.7695
+      },
+      {
+        name: 'San Marino',
+        value: 0.6732
+      },
+      {
+        name: 'Sao Tome and Principe',
+        value: 2.457
+      },
+      {
+        name: 'Saudi Arabia',
+        value: 284.058
+      },
+      {
+        name: 'Senegal',
+        value: 60.1758
+      },
+      {
+        name: 'Seychelles',
+        value: -0.471600000000002
+      },
+      {
+        name: 'Sierra Leone',
+        value: -19.5012
+      },
+      {
+        name: 'Singapore',
+        value: 0.9756
+      },
+      {
+        name: 'Slovakia',
+        value: 15.9362999999998
+      },
+      {
+        name: 'Slovenia',
+        value: 24.9489
+      },
+      {
+        name: 'Solomon Islands',
+        value: 0.973800000000001
+      },
+      {
+        name: 'Somalia',
+        value: 28.5615
+      },
+      {
+        name: 'South Africa',
+        value: 110.633400000001
+      },
+      {
+        name: 'Spain',
+        value: 1277.1909
+      },
+      {
+        name: 'Sri Lanka',
+        value: -15.399
+      },
+      {
+        name: 'St. Christopher-Nevis',
+        value: -1.5453
+      },
+      {
+        name: 'St. Lucia',
+        value: -0.675
+      },
+      {
+        name: 'St. Vincent and the Grenadines',
+        value: 0.171900000000001
+      },
+      {
+        name: 'Sudan',
+        value: 260.8218
+      },
+      {
+        name: 'Suriname',
+        value: -3.1275
+      },
+      {
+        name: 'Svalbard',
+        value: 0
+      },
+      {
+        name: 'Swaziland',
+        value: 9.73259999999999
+      },
+      {
+        name: 'Sweden',
+        value: -33.5114999999996
+      },
+      {
+        name: 'Switzerland',
+        value: 126.1827
+      },
+      {
+        name: 'Syria',
+        value: 3.11940000000004
+      },
+      {
+        name: 'Taiwan',
+        value: 76.2219
+      },
+      {
+        name: 'Tajikistan',
+        value: 7.65179999999987
+      },
+      {
+        name: 'United Republic of Tanzania',
+        value: 34.3385999999998
+      },
+      {
+        name: 'Thailand',
+        value: 615.5829
+      },
+      {
+        name: 'Togo',
+        value: 8.14590000000001
+      },
+      {
+        name: 'Tonga',
+        value: -0.106199999999999
+      },
+      {
+        name: 'Trinidad and Tobago',
+        value: 22.113
+      },
+      {
+        name: 'Tunisia',
+        value: 41.6943
+      },
+      {
+        name: 'Turkey',
+        value: 122.67
+      },
+      {
+        name: 'Turkmenistan',
+        value: 26.5391999999997
+      },
+      {
+        name: 'Turks and Caicos Islands',
+        value: -0.00539999999999985
+      },
+      {
+        name: 'Uganda',
+        value: 0.691200000000009
+      },
+      {
+        name: 'Ukraine',
+        value: 66.6818999999996
+      },
+      {
+        name: 'United Arab Emirates',
+        value: 66.5829
+      },
+      {
+        name: 'United Kingdom',
+        value: 31.0617000000002
+      },
+      {
+        name: 'United States of America',
+        value: 3883.4982
+      },
+      {
+        name: 'Uruguay',
+        value: 18.8037
+      },
+      {
+        name: 'Uzbekistan',
+        value: 122.294699999999
+      },
+      {
+        name: 'Vanuatu',
+        value: -1.377
+      },
+      {
+        name: 'Venezuela',
+        value: 135.4923
+      },
+      {
+        name: 'Vietnam',
+        value: 219.211200000001
+      },
+      {
+        name: 'Western Sahara',
+        value: 21.9708
+      },
+      {
+        name: 'Western Samoa',
+        value: 0.543599999999998
+      },
+      {
+        name: 'Yemen',
+        value: -4.4991
+      },
+      {
+        name: 'Yugoslavia',
+        value: -11.2589999999996
+      },
+      {
+        name: 'Zaire',
+        value: 340.0731
+      },
+      {
+        name: 'Zambia',
+        value: 27.3519
+      },
+      {
+        name: 'Zimbabwe',
+        value: 72.7029000000001
+      },
+
+      {
+        name: 'Democratic Republic of the Congo',
+        value: 0
+      },
+      {
+        name: 'South Sudan',
+        value: 0
+      },
+      {
+        name: 'Somaliland',
+        value: 0
+      },
+      {
+        name: 'Montenegro',
+        value: 0
+      },
+      {
+        name: 'Kosovo',
+        value: 0
+      },
+      {
+        name: 'Republic of Serbia',
+        value: 0
+      },
+    ]
+  }]
+};

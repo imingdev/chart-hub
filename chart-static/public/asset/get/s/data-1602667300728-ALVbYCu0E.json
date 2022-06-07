@@ -1,0 +1,1740 @@
+{
+    "code": 200,
+    "msg": "请求操作成功",
+    "result": [
+        {
+            "outFlow": 3,
+            "recordTime": 1602586500,
+            "innerFlow": 0,
+            "inFlow": 10
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602624900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602595200,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602633600,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602607500,
+            "innerFlow": 133,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602645900,
+            "innerFlow": 1,
+            "inFlow": 6
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602577800,
+            "innerFlow": 2,
+            "inFlow": 63
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602616200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602654600,
+            "innerFlow": 2,
+            "inFlow": 18
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602590100,
+            "innerFlow": 0,
+            "inFlow": 44
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602628500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602598800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602637200,
+            "innerFlow": 0,
+            "inFlow": 59
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602611100,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602649500,
+            "innerFlow": 0,
+            "inFlow": 15
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602581400,
+            "innerFlow": 0,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602619800,
+            "innerFlow": 25,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602658200,
+            "innerFlow": 1,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602593700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602632100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602602400,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 5,
+            "recordTime": 1602640800,
+            "innerFlow": 1,
+            "inFlow": 21
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602576300,
+            "innerFlow": 3,
+            "inFlow": 60
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602614700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 21,
+            "recordTime": 1602653100,
+            "innerFlow": 0,
+            "inFlow": 27
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602585000,
+            "innerFlow": 0,
+            "inFlow": 12
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602623400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602597300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602635700,
+            "innerFlow": 0,
+            "inFlow": 48
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602606000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602644400,
+            "innerFlow": 0,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602579900,
+            "innerFlow": 3,
+            "inFlow": 83
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602618300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602656700,
+            "innerFlow": 1,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602588600,
+            "innerFlow": 0,
+            "inFlow": 61
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602627000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602600900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602639300,
+            "innerFlow": 1,
+            "inFlow": 94
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602609600,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602648000,
+            "innerFlow": 0,
+            "inFlow": 23
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602583500,
+            "innerFlow": 8,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602621900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602660300,
+            "innerFlow": 20,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602592200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602630600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602604500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 11,
+            "recordTime": 1602642900,
+            "innerFlow": 8,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602613200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602651600,
+            "innerFlow": 0,
+            "inFlow": 21
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602587100,
+            "innerFlow": 0,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602625500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602595800,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602634200,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602608100,
+            "innerFlow": 136,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602646500,
+            "innerFlow": 1,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602578400,
+            "innerFlow": 2,
+            "inFlow": 40
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602616800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602655200,
+            "innerFlow": 1,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602590700,
+            "innerFlow": 0,
+            "inFlow": 69
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602629100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602599400,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602637800,
+            "innerFlow": 3,
+            "inFlow": 73
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602611700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602650100,
+            "innerFlow": 0,
+            "inFlow": 19
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602582000,
+            "innerFlow": 0,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602620400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602658800,
+            "innerFlow": 6,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602594300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602632700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602603000,
+            "innerFlow": 69,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 7,
+            "recordTime": 1602641400,
+            "innerFlow": 1,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602596100,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602634500,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602604800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602643200,
+            "innerFlow": 8,
+            "inFlow": 6
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602578700,
+            "innerFlow": 3,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602617100,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602655500,
+            "innerFlow": 1,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602587400,
+            "innerFlow": 0,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602625800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602599700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 11,
+            "recordTime": 1602638100,
+            "innerFlow": 4,
+            "inFlow": 67
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602608400,
+            "innerFlow": 143,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602646800,
+            "innerFlow": 0,
+            "inFlow": 23
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602582300,
+            "innerFlow": 2,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602620700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602659100,
+            "innerFlow": 1,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602591000,
+            "innerFlow": 0,
+            "inFlow": 37
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602629400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602603300,
+            "innerFlow": 68,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602641700,
+            "innerFlow": 3,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602612000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602650400,
+            "innerFlow": 0,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602585900,
+            "innerFlow": 0,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602624300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602594600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602633000,
+            "innerFlow": 0,
+            "inFlow": 3
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602606900,
+            "innerFlow": 94,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602645300,
+            "innerFlow": 0,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602577200,
+            "innerFlow": 3,
+            "inFlow": 38
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602615600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 9,
+            "recordTime": 1602654000,
+            "innerFlow": 1,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 5,
+            "recordTime": 1602589500,
+            "innerFlow": 0,
+            "inFlow": 3
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602627900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602598200,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602636600,
+            "innerFlow": 1,
+            "inFlow": 59
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602610500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602648900,
+            "innerFlow": 1,
+            "inFlow": 22
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602580800,
+            "innerFlow": 3,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602619200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602657600,
+            "innerFlow": 2,
+            "inFlow": 24
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602593100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602631500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602601800,
+            "innerFlow": 44,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602640200,
+            "innerFlow": 1,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602575700,
+            "innerFlow": 2,
+            "inFlow": 46
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602614100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602652500,
+            "innerFlow": 1,
+            "inFlow": 20
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602584400,
+            "innerFlow": 7,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602622800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602661200,
+            "innerFlow": 2,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602596700,
+            "innerFlow": 0,
+            "inFlow": 2
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602635100,
+            "innerFlow": 0,
+            "inFlow": 22
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602605400,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602643800,
+            "innerFlow": 1,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602579300,
+            "innerFlow": 12,
+            "inFlow": 24
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602617700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602656100,
+            "innerFlow": 1,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602588000,
+            "innerFlow": 0,
+            "inFlow": 5
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602626400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602600300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602638700,
+            "innerFlow": 5,
+            "inFlow": 31
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602609000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 13,
+            "recordTime": 1602647400,
+            "innerFlow": 2,
+            "inFlow": 10
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602582900,
+            "innerFlow": 1,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602621300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602659700,
+            "innerFlow": 2,
+            "inFlow": 15
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602591600,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602630000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602603900,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 21,
+            "recordTime": 1602642300,
+            "innerFlow": 0,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602612600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602651000,
+            "innerFlow": 2,
+            "inFlow": 14
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602605700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602644100,
+            "innerFlow": 0,
+            "inFlow": 5
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602576000,
+            "innerFlow": 1,
+            "inFlow": 51
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602614400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 5,
+            "recordTime": 1602652800,
+            "innerFlow": 0,
+            "inFlow": 31
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602588300,
+            "innerFlow": 0,
+            "inFlow": 46
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602626700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602597000,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602635400,
+            "innerFlow": 0,
+            "inFlow": 49
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602609300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602647700,
+            "innerFlow": 1,
+            "inFlow": 15
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602579600,
+            "innerFlow": 4,
+            "inFlow": 87
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602618000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602656400,
+            "innerFlow": 4,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602591900,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602630300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602600600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602639000,
+            "innerFlow": 0,
+            "inFlow": 74
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602612900,
+            "innerFlow": 0,
+            "inFlow": 2
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602651300,
+            "innerFlow": 0,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602583200,
+            "innerFlow": 2,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602621600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602660000,
+            "innerFlow": 10,
+            "inFlow": 21
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602595500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602633900,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602604200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 5,
+            "recordTime": 1602642600,
+            "innerFlow": 1,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602578100,
+            "innerFlow": 2,
+            "inFlow": 65
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602616500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602654900,
+            "innerFlow": 1,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602586800,
+            "innerFlow": 0,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602625200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602599100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602637500,
+            "innerFlow": 1,
+            "inFlow": 74
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602607800,
+            "innerFlow": 140,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602646200,
+            "innerFlow": 0,
+            "inFlow": 5
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602581700,
+            "innerFlow": 2,
+            "inFlow": 12
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602620100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602658500,
+            "innerFlow": 6,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602590400,
+            "innerFlow": 0,
+            "inFlow": 67
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602628800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602602700,
+            "innerFlow": 62,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602641100,
+            "innerFlow": 3,
+            "inFlow": 12
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602611400,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602649800,
+            "innerFlow": 0,
+            "inFlow": 14
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602585300,
+            "innerFlow": 0,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602623700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602594000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602632400,
+            "innerFlow": 0,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602606300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602644700,
+            "innerFlow": 0,
+            "inFlow": 25
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602576600,
+            "innerFlow": 1,
+            "inFlow": 62
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602615000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 11,
+            "recordTime": 1602653400,
+            "innerFlow": 1,
+            "inFlow": 23
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602588900,
+            "innerFlow": 0,
+            "inFlow": 41
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602627300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602597600,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602636000,
+            "innerFlow": 0,
+            "inFlow": 51
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602609900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602648300,
+            "innerFlow": 1,
+            "inFlow": 14
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602580200,
+            "innerFlow": 4,
+            "inFlow": 78
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602618600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602657000,
+            "innerFlow": 1,
+            "inFlow": 15
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602592500,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602630900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602601200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602639600,
+            "innerFlow": 2,
+            "inFlow": 25
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602575100,
+            "innerFlow": 1,
+            "inFlow": 42
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602613500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602651900,
+            "innerFlow": 1,
+            "inFlow": 23
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602583800,
+            "innerFlow": 8,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602622200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602660600,
+            "innerFlow": 23,
+            "inFlow": 14
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602576900,
+            "innerFlow": 1,
+            "inFlow": 53
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602615300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 11,
+            "recordTime": 1602653700,
+            "innerFlow": 0,
+            "inFlow": 18
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602585600,
+            "innerFlow": 0,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602624000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602597900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602636300,
+            "innerFlow": 0,
+            "inFlow": 51
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602606600,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 7,
+            "recordTime": 1602645000,
+            "innerFlow": 0,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602580500,
+            "innerFlow": 2,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602618900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602657300,
+            "innerFlow": 2,
+            "inFlow": 12
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602589200,
+            "innerFlow": 0,
+            "inFlow": 29
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602627600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602601500,
+            "innerFlow": 27,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602639900,
+            "innerFlow": 1,
+            "inFlow": 20
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602610200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602648600,
+            "innerFlow": 0,
+            "inFlow": 26
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602584100,
+            "innerFlow": 10,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602622500,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602660900,
+            "innerFlow": 1,
+            "inFlow": 15
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602592800,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602631200,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602605100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602643500,
+            "innerFlow": 0,
+            "inFlow": 11
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602575400,
+            "innerFlow": 1,
+            "inFlow": 51
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602613800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602652200,
+            "innerFlow": 1,
+            "inFlow": 29
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602587700,
+            "innerFlow": 0,
+            "inFlow": 5
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602626100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602596400,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602634800,
+            "innerFlow": 0,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602608700,
+            "innerFlow": 46,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 11,
+            "recordTime": 1602647100,
+            "innerFlow": 0,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602579000,
+            "innerFlow": 5,
+            "inFlow": 7
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602617400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602655800,
+            "innerFlow": 2,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602591300,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602629700,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602600000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602638400,
+            "innerFlow": 0,
+            "inFlow": 31
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602612300,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602650700,
+            "innerFlow": 1,
+            "inFlow": 16
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602582600,
+            "innerFlow": 2,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602621000,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602659400,
+            "innerFlow": 2,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602594900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602633300,
+            "innerFlow": 0,
+            "inFlow": 3
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602603600,
+            "innerFlow": 11,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602642000,
+            "innerFlow": 1,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602577500,
+            "innerFlow": 1,
+            "inFlow": 25
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602615900,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 6,
+            "recordTime": 1602654300,
+            "innerFlow": 1,
+            "inFlow": 23
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602586200,
+            "innerFlow": 1,
+            "inFlow": 8
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602624600,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602598500,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 2,
+            "recordTime": 1602636900,
+            "innerFlow": 0,
+            "inFlow": 62
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602607200,
+            "innerFlow": 118,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 12,
+            "recordTime": 1602645600,
+            "innerFlow": 1,
+            "inFlow": 4
+        },
+        {
+            "outFlow": 8,
+            "recordTime": 1602581100,
+            "innerFlow": 2,
+            "inFlow": 10
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602619500,
+            "innerFlow": 18,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 4,
+            "recordTime": 1602657900,
+            "innerFlow": 2,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602589800,
+            "innerFlow": 0,
+            "inFlow": 17
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602628200,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602602100,
+            "innerFlow": 0,
+            "inFlow": 1
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602640500,
+            "innerFlow": 1,
+            "inFlow": 9
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602610800,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602649200,
+            "innerFlow": 1,
+            "inFlow": 19
+        },
+        {
+            "outFlow": 3,
+            "recordTime": 1602584700,
+            "innerFlow": 2,
+            "inFlow": 5
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602623100,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 1,
+            "recordTime": 1602661500,
+            "innerFlow": 1,
+            "inFlow": 13
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602593400,
+            "innerFlow": 0,
+            "inFlow": 0
+        },
+        {
+            "outFlow": 0,
+            "recordTime": 1602631800,
+            "innerFlow": 0,
+            "inFlow": 0
+        }
+    ]
+}

@@ -1,0 +1,667 @@
+{
+  "vehicleCarByRoad": {
+    "视频13": 73,
+    "视频23": 93,
+    "视频26": 173,
+    "视频28": 155,
+    "视频19": 117
+  },
+  "todayCarCount": {
+    "total": 348694
+  },
+  "carStatType": [
+    {
+      "name": "小型车",
+      "value": 1237568
+    },
+    {
+      "name": "中型车",
+      "value": 92030
+    },
+    {
+      "name": "大型车",
+      "value": 15390
+    },
+    {
+      "name": "特大型车",
+      "value": 489
+    },
+    {
+      "name": "摩托车",
+      "value": 3217
+    }
+  ],
+  "cameraCount": {
+    "total": 44
+  },
+  "nowVehicleCount": {
+    "total": 0
+  },
+  "vehiclePeopleByRoad": {
+    "视频13": 19867,
+    "视频12": 35383,
+    "视频15": 34161,
+    "视频14": 19354,
+    "视频11": 30397
+  },
+  "carCountByHour": {
+    "yesterday": {
+      "0": 29910,
+      "1": 19050,
+      "2": 17088,
+      "3": 17976,
+      "4": 22516,
+      "5": 32863,
+      "6": 39319,
+      "7": 48043,
+      "8": 56928,
+      "9": 69792,
+      "10": 70098,
+      "11": 64474,
+      "12": 63676,
+      "13": 68786,
+      "14": 69943,
+      "15": 68078,
+      "16": 67245,
+      "17": 64100,
+      "18": 45394,
+      "19": 29986,
+      "20": 28339,
+      "21": 24819,
+      "22": 18156,
+      "23": 14912
+    },
+    "lastMonth": {
+      "0": 28810,
+      "1": 19150,
+      "2": 18088,
+      "3": 18976,
+      "4": 21516,
+      "5": 31863,
+      "6": 34319,
+      "7": 42043,
+      "8": 56728,
+      "9": 66792,
+      "10": 69098,
+      "11": 65574,
+      "12": 61676,
+      "13": 68986,
+      "14": 67943,
+      "15": 68278,
+      "16": 66245,
+      "17": 60100,
+      "18": 45694,
+      "19": 28986,
+      "20": 28449,
+      "21": 25619,
+      "22": 17956,
+      "23": 15112
+    },
+    "today": {
+      "0": 18094,
+      "1": 11501,
+      "2": 9062,
+      "3": 9474,
+      "4": 13442,
+      "5": 28324,
+      "6": 47535,
+      "7": 58705,
+      "8": 72496,
+      "9": 85081,
+      "10": 87355,
+      "11": 81304,
+      "12": 75667,
+      "13": 82153,
+      "14": 87652,
+      "15": 88592,
+      "16": 85424,
+      "17": 82967,
+      "18": 73570,
+      "19": 65048,
+      "20": 62662,
+      "21": 56279,
+      "22": 39833,
+      "23": 26474
+    }
+  },
+  "totalCarCount": {
+    "total": 6532451
+  },
+  "vehicleCount": {
+    "total": 1786160
+  },
+  "onlineStatCount": {
+    "total": 22
+  },
+  "carCountRank": [
+    {
+      "视频13": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "3",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 67027,
+        "small": 58699,
+        "middle": 6738,
+        "big": 1113,
+        "large": 47,
+        "motor": 430
+      }
+    },
+    {
+      "视频11": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "26",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 64297,
+        "small": 57545,
+        "middle": 5808,
+        "big": 208,
+        "large": 1,
+        "motor": 735
+      }
+    },
+    {
+      "视频12": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "25",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 63400,
+        "small": 55799,
+        "middle": 6330,
+        "big": 328,
+        "large": 6,
+        "motor": 937
+      }
+    },
+    {
+      "视频14": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "2",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 58965,
+        "small": 50338,
+        "middle": 7579,
+        "big": 931,
+        "large": 22,
+        "motor": 95
+      }
+    },
+    {
+      "视频20": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "19",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 58361,
+        "small": 56192,
+        "middle": 1770,
+        "big": 359,
+        "large": 14,
+        "motor": 26
+      }
+    },
+    {
+      "视频22": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "16",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 54448,
+        "small": 51717,
+        "middle": 2548,
+        "big": 157,
+        "large": 0,
+        "motor": 26
+      }
+    },
+    {
+      "视频15": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "1",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 54299,
+        "small": 48030,
+        "middle": 5668,
+        "big": 523,
+        "large": 7,
+        "motor": 71
+      }
+    },
+    {
+      "视频23": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "17",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 50150,
+        "small": 43960,
+        "middle": 5137,
+        "big": 1048,
+        "large": 3,
+        "motor": 2
+      }
+    },
+    {
+      "视频30": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "23",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 49914,
+        "small": 45858,
+        "middle": 2789,
+        "big": 1204,
+        "large": 51,
+        "motor": 12
+      }
+    },
+    {
+      "视频32": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "20",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 48673,
+        "small": 47085,
+        "middle": 1419,
+        "big": 70,
+        "large": 0,
+        "motor": 99
+      }
+    },
+    {
+      "视频26": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "13",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 44509,
+        "small": 40803,
+        "middle": 3019,
+        "big": 673,
+        "large": 7,
+        "motor": 7
+      }
+    },
+    {
+      "视频21": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "15",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 44283,
+        "small": 42373,
+        "middle": 1613,
+        "big": 279,
+        "large": 12,
+        "motor": 6
+      }
+    },
+    {
+      "视频29": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "14",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 42660,
+        "small": 39444,
+        "middle": 2999,
+        "big": 95,
+        "large": 0,
+        "motor": 122
+      }
+    },
+    {
+      "视频24": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "18",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 42593,
+        "small": 39025,
+        "middle": 3311,
+        "big": 245,
+        "large": 3,
+        "motor": 9
+      }
+    },
+    {
+      "视频27": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "4",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 42059,
+        "small": 39096,
+        "middle": 2689,
+        "big": 225,
+        "large": 0,
+        "motor": 49
+      }
+    },
+    {
+      "视频25": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "12",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 42035,
+        "small": 37332,
+        "middle": 3080,
+        "big": 1552,
+        "large": 65,
+        "motor": 6
+      }
+    },
+    {
+      "视频08": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "33",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 39889,
+        "small": 39095,
+        "middle": 730,
+        "big": 1,
+        "large": 0,
+        "motor": 63
+      }
+    },
+    {
+      "视频06": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "30",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 39835,
+        "small": 39064,
+        "middle": 717,
+        "big": 2,
+        "large": 0,
+        "motor": 52
+      }
+    },
+    {
+      "视频28": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "5",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 39830,
+        "small": 36338,
+        "middle": 2701,
+        "big": 769,
+        "large": 4,
+        "motor": 18
+      }
+    },
+    {
+      "视频05": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "29",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 39800,
+        "small": 39013,
+        "middle": 717,
+        "big": 1,
+        "large": 0,
+        "motor": 69
+      }
+    },
+    {
+      "视频16": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "11",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 39459,
+        "small": 33934,
+        "middle": 4032,
+        "big": 1346,
+        "large": 13,
+        "motor": 134
+      }
+    },
+    {
+      "视频07": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "27",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 37536,
+        "small": 36772,
+        "middle": 705,
+        "big": 5,
+        "large": 0,
+        "motor": 54
+      }
+    },
+    {
+      "视频19": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "21",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 33698,
+        "small": 32665,
+        "middle": 1010,
+        "big": 8,
+        "large": 0,
+        "motor": 15
+      }
+    },
+    {
+      "视频02": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "6",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 32890,
+        "small": 28434,
+        "middle": 3450,
+        "big": 955,
+        "large": 45,
+        "motor": 6
+      }
+    },
+    {
+      "视频31": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "10",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 32602,
+        "small": 27802,
+        "middle": 4069,
+        "big": 714,
+        "large": 4,
+        "motor": 13
+      }
+    },
+    {
+      "视频18": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "22",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 31888,
+        "small": 30868,
+        "middle": 922,
+        "big": 11,
+        "large": 1,
+        "motor": 86
+      }
+    },
+    {
+      "视频09": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "31",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 30778,
+        "small": 30726,
+        "middle": 46,
+        "big": 0,
+        "large": 0,
+        "motor": 6
+      }
+    },
+    {
+      "视频10": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "32",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 30740,
+        "small": 30679,
+        "middle": 56,
+        "big": 0,
+        "large": 0,
+        "motor": 5
+      }
+    },
+    {
+      "视频17": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "9",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 30463,
+        "small": 25560,
+        "middle": 4012,
+        "big": 845,
+        "large": 17,
+        "motor": 29
+      }
+    },
+    {
+      "视频01": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "7",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 29304,
+        "small": 24740,
+        "middle": 3297,
+        "big": 1131,
+        "large": 126,
+        "motor": 10
+      }
+    },
+    {
+      "视频03": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "8",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 16416,
+        "small": 14822,
+        "middle": 964,
+        "big": 580,
+        "large": 41,
+        "motor": 9
+      }
+    },
+    {
+      "视频04": {
+        "uiSpeed": 0,
+        "uiFeatureType": 0,
+        "ubiSourceId": "24",
+        "uiCount": 1,
+        "uiGrouping": 0,
+        "total": 15893,
+        "small": 13760,
+        "middle": 2105,
+        "big": 12,
+        "large": 0,
+        "motor": 16
+      }
+    }
+  ],
+  "vehicleEventByType": [
+    {
+      "name": "逆行",
+      "value": 15098
+    },
+    {
+      "name": "异常停车",
+      "value": 944
+    },
+    {
+      "name": "压线",
+      "value": 566220
+    },
+    {
+      "name": "车辆占用应急车道行驶",
+      "value": 375934
+    },
+    {
+      "name": "行人出现",
+      "value": 842895
+    },
+    {
+      "name": "违禁车辆",
+      "value": 3312257
+    },
+    {
+      "name": "火灾",
+      "value": 238
+    },
+    {
+      "name": "施工区域",
+      "value": 81
+    },
+    {
+      "name": "倒车",
+      "value": 1183
+    },
+    {
+      "name": "抛洒物",
+      "value": 253
+    }
+  ],
+  "vehicleDgCarByRoad": {
+    "视频13": 19085,
+    "视频12": 20201,
+    "视频30": 23734,
+    "视频17": 19321,
+    "视频16": 27964
+  }
+}
