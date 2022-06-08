@@ -18,9 +18,9 @@ const RenderMain = ({ code, darkMode }) => {
 
 const Render = ({ data }) => {
   // 加载jquery
-  const jqueryStatus = useExternal('//cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js');
+  const jqueryStatus = useExternal('/external/js/jquery.min.js');
   // 加载echarts
-  const echartsStatus = useExternal(data.echartsVersion && `//cdn.jsdelivr.net/npm/echarts@${data.echartsVersion}/dist/echarts.min.js`);
+  const echartsStatus = useExternal(data.version && `//cdn.staticfile.org/echarts/${data.version}/echarts.min.js`);
   // 加载外部js
   const externalStatus = useMultipleExternal(data.externalScripts);
 

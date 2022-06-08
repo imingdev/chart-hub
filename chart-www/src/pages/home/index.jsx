@@ -26,7 +26,7 @@ const HomePage = () => {
             <div className={styles.inner}>
               {list.map((row, index) => (
                 <div className={styles.item} key={index}>
-                  <ItemCard id={row.id} label={row.title} image={row.thumbnail} version={row.echartsVersion} />
+                  <ItemCard id={row.id} label={row.title} image={row.thumbnail} version={row.version} />
                 </div>
               ))}
             </div>
