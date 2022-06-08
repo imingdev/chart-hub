@@ -15,8 +15,8 @@ const ChartDetailPageMain = ({ data: rData }) => {
 
   return (
     <main className={styles.container}>
-      <Editor code={data.code} onRunner={onRunnerHandle} />
-      <Render data={data} />
+      <Editor className={styles.inner} code={data.code} onRunner={onRunnerHandle} />
+      <Render className={styles.inner} data={data} />
     </main>
   );
 };

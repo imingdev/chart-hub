@@ -8,7 +8,7 @@ import useEditor from '../utils/useEditor';
 
 import styles from '../style/Editor.scss';
 
-const Editor = ({ code, onRunner }) => {
+const Editor = ({ className, code, onRunner }) => {
   const editorRef = useRef();
 
   const { loading, editor } = useEditor({ ref: editorRef, code });
@@ -16,7 +16,7 @@ const Editor = ({ code, onRunner }) => {
   const onRunnerHandle = () => onRunner(editor.getValue());
 
   return (
-    <div className={styles.container}>
+    <div className={ClassNames(className, styles.container)}>
       <div className={styles.header}>
         <div className={styles.tabs}>
           <div className={styles.tabItem}>完整代码</div>

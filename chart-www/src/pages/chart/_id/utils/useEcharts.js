@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import { compileCode } from '@/common/utils';
+import { useDebounceFn } from 'ahooks';
+import { addEventListener, compileCode, removeEventListener } from '@/common/utils';
 
 const useEcharts = ({ code }) => {
   const chartRef = useRef();
@@ -48,6 +49,16 @@ const useEcharts = ({ code }) => {
       destroyEchartsHandle();
     };
   }, [code]);
+
+  const { run: resizeHandle } = useDebounceFn(() => instance?.resize(), { wait: 100 });
+
+  useEffect(() => {
+    addEventListener(window, 'resize', resizeHandle);
+
+    return () => {
+      removeEventListener(window, 'resize', resizeHandle);
+    };
+  }, []);
 
   return {
     instance,

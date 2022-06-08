@@ -46,6 +46,7 @@ exports.detail = async (id) => {
   });
 
   if (!res) return null;
+  res.external = res.external.split(',').filter(Boolean);
 
   const code = await utils.getCodeById(res.id);
 

@@ -16,20 +16,20 @@ const RenderMain = ({ code, darkMode }) => {
   );
 };
 
-const Render = ({ data }) => {
+const Render = ({ className, data }) => {
   // 加载jquery
   const jqueryStatus = useExternal('/external/js/jquery.min.js');
   // 加载echarts
   const echartsStatus = useExternal(data.version && `//cdn.staticfile.org/echarts/${data.version}/echarts.min.js`);
   // 加载外部js
-  const externalStatus = useMultipleExternal(data.externalScripts);
+  const externalStatus = useMultipleExternal(data.external);
 
   const loading = useMemo(() => !(jqueryStatus === 'ready' && echartsStatus === 'ready' && externalStatus === 'ready'), [jqueryStatus, echartsStatus, externalStatus]);
 
   const [isSelect, setIsSelect] = useState(false);
 
   return (
-    <div className={styles.container}>
+    <div className={ClassNames(className, styles.container)}>
       <div className={styles.header}>
         <div className={styles.headItem}>
           <div
