@@ -37,7 +37,7 @@ module.exports = merge(baseWebpackConfig, {
       },
     }, {
       // 静态资源地址代理
-      context: ['/asset', '/dep', '/dep', '/ecg-storage'],
+      context: ['/asset', '/external', '/ecg-storage'],
       target: 'http://localhost:10088',
       changeOrigin: true,
       secure: true,
